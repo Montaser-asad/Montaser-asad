@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-v2.svg" alt="Terminal session: whoami, neofetch, languages, projects" width="800" />
+<img src="assets/terminal-v2.svg" alt="Terminal session: whoami, neofetch, projects" width="800" />
 
 <br><br>
 
