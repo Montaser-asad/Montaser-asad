@@ -1,42 +1,50 @@
-<pre>
-<b>montaser@github:~$</b> whoami
-Montaser Asad
+<div align="center">
 
-<b>montaser@github:~$</b> neofetch
-<b>montaser@github</b>
------------------
-<b>OS</b>:       GitHub Profile
-<b>Location</b>: Amman, Jordan
-<b>Campus</b>:   42 Amman (ASU)
-<b>Focus</b>:    Systems, Networking
-<b>Language</b>: C
-<b>Shell</b>:    minishell (self-built)
-<b>Contact</b>:  montserasad@gmail.com
+<img src="assets/terminal.svg" alt="Terminal session: whoami, neofetch, languages, projects" width="800" />
 
-<b>montaser@github:~$</b> cat about.txt
-I like knowing what the machine is actually doing.
-Student at 42 Amman. Mostly C: shells, threads, networks, microcontrollers.
+<br><br>
 
-<b>montaser@github:~$</b> cat stack.txt
-languages : C, C++, Shell, Make
-tools     : Git, Linux, GDB, Arduino
-systems   : fork, pipes, signals, file descriptors, pthreads, mutexes
-networking: IPv4, subnet masks, routing, gateways
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,arduino&perline=6&theme=dark" alt="C, C++, Bash, Git, Linux, Arduino" /></a>
 
-<b>montaser@github:~$</b> languages
-C     [█████████████████████████████░]  96%
-Make  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4%
-      (by lines of code across my 42 repos)
+</div>
 
-<b>montaser@github:~$</b> ls -l projects/
-drwxr-xr-x  <a href="https://github.com/Montaser-asad/minishell">minishell</a>        custom Unix shell in C: pipes, redirections, heredocs
-drwxr-xr-x  <a href="https://github.com/Montaser-asad/Philosophers">Philosophers</a>     dining philosophers with pthreads and mutexes
-drwxr-xr-x  <a href="https://github.com/Montaser-asad/NetPractice">NetPractice</a>      IPv4, subnets, routing across 10 network levels
-drwxr-xr-x  <a href="https://github.com/Montaser-asad/2D-game">2D-game</a>          chess2.0, a chess-themed 2D puzzle game in C
-drwxr-xr-x  <a href="https://github.com/Montaser-asad/Arduino_Projects">Arduino_Projects</a> embedded sketches for Arduino boards
+&nbsp;
 
-<b>montaser@github:~$</b> cat contact.txt
-email: <a href="mailto:montserasad@gmail.com">montserasad@gmail.com</a>
+### `$ ls -l ~/projects`
 
-<b>montaser@github:~$</b> █
-</pre>
+<table>
+<tr>
+<td><a href="https://github.com/Montaser-asad/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=minishell&theme=dracula&hide_border=true&bg_color=282a36" alt="minishell" /></a></td>
+<td><a href="https://github.com/Montaser-asad/Philosophers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Philosophers&theme=dracula&hide_border=true&bg_color=282a36" alt="Philosophers" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Montaser-asad/NetPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=NetPractice&theme=dracula&hide_border=true&bg_color=282a36" alt="NetPractice" /></a></td>
+<td><a href="https://github.com/Montaser-asad/2D-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=2D-game&theme=dracula&hide_border=true&bg_color=282a36" alt="2D-game" /></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/Montaser-asad/Arduino_Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Arduino_Projects&theme=dracula&hide_border=true&bg_color=282a36" alt="Arduino_Projects" /></a></td>
+</tr>
+</table>
+
+&nbsp;
+
+### `$ ./stats --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dracula&hide_border=true&bg_color=282a36" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&hide=roff,perl&theme=dracula&hide_border=true&bg_color=282a36" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Montaser-asad&theme=dracula&hide_border=true&background=282a36" alt="GitHub streak stats" />
+
+</div>
+
+&nbsp;
+
+### `$ mail montserasad@gmail.com`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/montserasad@gmail.com-282a36?style=for-the-badge&logo=gmail&logoColor=50fa7b)](mailto:montserasad@gmail.com)
+
+</div>
