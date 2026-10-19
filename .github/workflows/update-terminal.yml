@@ -19,10 +19,10 @@ jobs:
       - name: Generate terminal.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/gen_terminal.py assets/hero.svg
+        run: python3 .github/scripts/gen_terminal.py assets/intro.svg
       - name: Commit if changed
         run: |
           git config user.name "Montaser-asad"
           git config user.email "montserasad@gmail.com"
-          git add assets/hero.svg
+          git add assets/intro.svg
           git diff --cached --quiet || (git commit -m "Update terminal data" && git push)
