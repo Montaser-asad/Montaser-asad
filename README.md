@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-v4.svg" alt="Terminal session: whoami, neofetch" width="800" />
+<img src="assets/terminal-v5.svg" alt="Terminal session: whoami, neofetch" width="800" />
 
 <br><br>
 
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-### `montaser-asad@github.com:~$ ls projects/`
+### `montaser@github.com:~$ ls projects/`
 
 <table>
 <tr>
@@ -25,19 +25,18 @@
 
 &nbsp;
 
-### `montaser-asad@github.com:~$ ./stats --github`
+### `montaser@github.com:~$ ./stats --github`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
-
-<img src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
+<img width="400" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
 
 </div>
 
 &nbsp;
 
-### `montaser-asad@github.com:~$ mail montserasad@gmail.com`
+### `montaser@github.com:~$ mail montserasad@gmail.com`
 
 <div align="center">
 
