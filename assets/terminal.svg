@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="452" viewBox="0 0 800 452" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman, focus systems and networking; languages C 96 percent, Make 4 percent; projects minishell, Philosophers, NetPractice, 2D-game, Arduino_Projects">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="378" viewBox="0 0 800 378" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman, focus systems and networking; projects minishell, Philosophers, NetPractice, 2D-game">
 <style>
 text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:15px;white-space:pre}
 .l{opacity:0;animation:s .01s steps(1) var(--t) forwards}@keyframes s{to{opacity:1}}
@@ -8,7 +8,7 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 @keyframes mv{from{transform:translateX(0)}to{transform:translateX(var(--w))}}
 .bl{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
 </style>
-<rect width="800" height="452" rx="12" fill="#282a36"/>
+<rect width="800" height="378" rx="12" fill="#282a36"/>
 <circle cx="26" cy="22" r="7" fill="#ff5555"/>
 <circle cx="50" cy="22" r="7" fill="#ffb86c"/>
 <circle cx="74" cy="22" r="7" fill="#50fa7b"/>
@@ -28,19 +28,9 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 <text x="30" y="270" textLength="99.33" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:11;--d:0.13s;--t:4.58s"><tspan fill="#f1fa8c">Language: </tspan><tspan fill="#f8f8f2">C</tspan></text>
 <text x="30" y="290" textLength="261.87" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:29;--d:0.35s;--t:4.75s"><tspan fill="#f1fa8c">Shell: </tspan><tspan fill="#f8f8f2">minishell (self-built)</tspan></text>
 <text x="30" y="310" textLength="270.90" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:30;--d:0.36s;--t:5.14s"><tspan fill="#f1fa8c">Contact: </tspan><tspan fill="#f8f8f2">montserasad@gmail.com</tspan></text>
-<text x="30" y="336" textLength="207.69" lengthAdjust="spacing" class="l" style="--t:5.74s"><tspan fill="#ff79c6">montaser@github.com</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#50fa7b">$ </tspan></text>
-<text x="237.69" y="336" textLength="81.27" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:9;--d:0.67s;--t:5.99s">languages</text>
-<rect x="237.69" y="323" width="9.03" height="16" fill="#f8f8f2" class="cm" style="--n:9;--d:0.67s;--t:5.99s;--w:81.27px"/>
-<text x="346.04999999999995" y="336" textLength="279.93" lengthAdjust="spacing" fill="#6272a4" class="ty" style="--n:31;--d:0.62s;--t:6.66s"># by lines of code, my 42 repos</text>
-<g class="l" style="--t:7.48s"><text x="36" y="362" fill="#f8f8f2">C</text><text x="130" y="362" fill="#f8f8f2">[</text><rect x="146" y="350" width="450" height="14" fill="#6272a4" opacity="0.45"/><text x="600" y="362" fill="#f8f8f2">]</text></g>
-<rect x="146" y="350" width="432.0" height="14" fill="#f8f8f2" class="ty" style="--n:24;--d:1.05s;--t:7.48s"/>
-<text x="690" y="362" fill="#f8f8f2" class="l" style="--t:8.53s">96%</text>
-<g class="l" style="--t:7.63s"><text x="36" y="386" fill="#f8f8f2">Make</text><text x="130" y="386" fill="#f8f8f2">[</text><rect x="146" y="374" width="450" height="14" fill="#6272a4" opacity="0.45"/><text x="600" y="386" fill="#f8f8f2">]</text></g>
-<rect x="146" y="374" width="18.0" height="14" fill="#f8f8f2" class="ty" style="--n:2;--d:0.19s;--t:7.63s"/>
-<text x="690" y="386" fill="#f8f8f2" class="l" style="--t:7.82s">4%</text>
-<text x="30" y="412" textLength="207.69" lengthAdjust="spacing" class="l" style="--t:8.68s"><tspan fill="#ff79c6">montaser@github.com</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#50fa7b">$ </tspan></text>
-<text x="237.69" y="412" textLength="108.36" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:12;--d:0.90s;--t:8.93s">ls projects/</text>
-<rect x="237.69" y="399" width="9.03" height="16" fill="#f8f8f2" class="cm" style="--n:12;--d:0.90s;--t:8.93s;--w:108.36px"/>
-<text x="30" y="436" textLength="550.83" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:61;--d:1.22s;--t:10.03s"><tspan fill="#8be9fd">minishell  Philosophers  NetPractice  2D-game  Arduino_Projects</tspan></text>
-<g class="l" style="--t:11.29s"><rect x="589.86" y="424" width="9" height="15" fill="#f8f8f2" class="bl"/></g>
+<text x="30" y="336" textLength="207.69" lengthAdjust="spacing" class="l" style="--t:5.94s"><tspan fill="#ff79c6">montaser@github.com</tspan><tspan fill="#f8f8f2">:</tspan><tspan fill="#8be9fd">~</tspan><tspan fill="#50fa7b">$ </tspan></text>
+<text x="237.69" y="336" textLength="108.36" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:12;--d:0.90s;--t:6.19s">ls projects/</text>
+<rect x="237.69" y="323" width="9.03" height="16" fill="#f8f8f2" class="cm" style="--n:12;--d:0.90s;--t:6.19s;--w:108.36px"/>
+<text x="30" y="360" textLength="406.35" lengthAdjust="spacing" fill="#f8f8f2" class="ty" style="--n:45;--d:0.90s;--t:7.29s"><tspan fill="#8be9fd">minishell  Philosophers  NetPractice  2D-game</tspan></text>
+<g class="l" style="--t:8.22s"><rect x="445.38" y="348" width="9" height="15" fill="#f8f8f2" class="bl"/></g>
 </svg>
