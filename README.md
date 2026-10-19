@@ -14,21 +14,9 @@
 
 <img src="assets/about-v2.svg" alt="About: Montaser, a student in Amman, Jordan, doing the 42 Amman program (mostly C and systems programming) and a Bachelor's in Cybersecurity at Applied Science University, Amman, graduating in 2029." width="880" />
 
-### `montaser@github.com:~$ cat interests.txt`
-
-- **Low-level systems programming.** So far that's Minishell and Philosophers at 42.
-- **Cybersecurity.** I play CTFs with Jordan Cyber Club: web exploitation, reverse engineering and hardware security.
-- **Home server.** I run a Debian server I built myself and I work on its security and infrastructure.
-
 ### `montaser@github.com:~$ cat outside-code.txt`
 
-- I study music at a Fine Arts Institute, majoring in guitar.
-- I box and do calisthenics.
-- I volunteer with Yes We Can (YWC), a Jordanian NGO, helping with Erasmus+ partnership outreach.
-
-### `montaser@github.com:~$ cat languages.txt`
-
-Arabic (native, a few dialects) and English (advanced).
+<img src="assets/outside.svg" alt="Outside of code: guitar (majoring in guitar at a Fine Arts Institute) and chess." width="880" />
 
 &nbsp;
 
