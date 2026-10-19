@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="About: software engineer and 42 Amman (ASU) student in Amman, Jordan, focused on systems, networking and cyber security, building in C, C++, Java and Python.">
-<style>text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:19px;font-weight:700;white-space:pre}</style>
-<rect x="1" y="1" width="878" height="168" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
-<rect x="1" y="1" width="6" height="168" rx="3" fill="#ff6ac1"/>
-<text x="34" y="50"><tspan fill="#ffffff">I'm a software engineer and a student at </tspan><tspan fill="#fff06b">42 Amman (ASU)</tspan><tspan fill="#ffffff">,</tspan></text>
-<text x="34" y="80"><tspan fill="#ffffff">based in Amman, Jordan. I focus on </tspan><tspan fill="#57d7ff">systems, networking</tspan></text>
-<text x="34" y="110"><tspan fill="#57d7ff">and cyber security</tspan><tspan fill="#ffffff">, and I build most of my projects in</tspan></text>
-<text x="34" y="140"><tspan fill="#5af78e">C, C++, Java and Python</tspan><tspan fill="#ffffff">: shells, threads, network setups and more.</tspan></text>
-</svg>

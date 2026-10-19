@@ -21,14 +21,21 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - name: Crop canvas to the tiles so the snake stays inside the grid
+      - name: Keep the snake inside the tile grid
         run: |
           python3 - <<'PY'
           import glob, re
           for f in glob.glob("dist/*.svg"):
               s = open(f).read()
-              s = re.sub(r'viewBox="-16 -32 (\d+) (\d+)" width="\d+" height="\d+"',
-                         lambda m: f'viewBox="0 0 {int(m[1])-32} {int(m[2])-80}" width="{int(m[1])-32}" height="{int(m[2])-80}"', s, count=1)
+              m = re.search(r'viewBox="-16 -32 (\d+) (\d+)"', s)
+              if not m:
+                  continue
+              w, h = int(m[1]) - 32, int(m[2]) - 80
+              s = re.sub(r'viewBox="-16 -32 \d+ \d+" width="\d+" height="\d+"',
+                         f'viewBox="0 0 {w} {h}" width="{w}" height="{h}"', s, count=1)
+              clamp = lambda v, lo, hi: max(lo, min(hi, v))
+              s = re.sub(r'translate\((-?[\d.]+)px,(-?[\d.]+)px\)',
+                         lambda m: f"translate({clamp(float(m[1]), 0, w - 16):g}px,{clamp(float(m[2]), 0, h - 16):g}px)", s)
               open(f, "w").write(s)
           PY
       - uses: crazy-max/ghaction-github-pages@v4

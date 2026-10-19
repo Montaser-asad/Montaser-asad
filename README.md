@@ -12,7 +12,23 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about.svg" alt="About: software engineer and 42 Amman (ASU) student in Amman, Jordan, focused on systems, networking and cyber security, building in C, C++, Java and Python." width="880" />
+<img src="assets/about-v2.svg" alt="About: Montaser, a student in Amman, Jordan, doing the 42 Amman program (mostly C and systems programming) and a Bachelor's in Cybersecurity at Applied Science University, Amman, graduating in 2029." width="880" />
+
+### `montaser@github.com:~$ cat interests.txt`
+
+- **Low-level systems programming.** So far that's Minishell and Philosophers at 42.
+- **Cybersecurity.** I play CTFs with Jordan Cyber Club: web exploitation, reverse engineering and hardware security.
+- **Home server.** I run a Debian server I built myself and I work on its security and infrastructure.
+
+### `montaser@github.com:~$ cat outside-code.txt`
+
+- I study music at a Fine Arts Institute, majoring in guitar.
+- I box and do calisthenics.
+- I volunteer with Yes We Can (YWC), a Jordanian NGO, helping with Erasmus+ partnership outreach.
+
+### `montaser@github.com:~$ cat languages.txt`
+
+Arabic (native, a few dialects) and English (advanced).
 
 &nbsp;
 
@@ -46,8 +62,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake-dark.svg?v=2">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake-dark.svg?v=3">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake.svg?v=3" />
 </picture>
 
 </div>
