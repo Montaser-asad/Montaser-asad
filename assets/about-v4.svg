@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="328" viewBox="0 0 880 328" role="img" aria-label="About: a cybersecurity student based in Amman, Jordan, working on a Bachelor's in Cybersecurity at Applied Science University, drawn to security by how much they like finding out how things break. Doing 42 Amman with C and systems projects, running a self-built Debian home server and working on its security and infrastructure. Next goal: go deeper into where systems and security meet. Outside of code: a diploma in Fine Arts (guitar) and chess.">
-<style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:500;white-space:pre}.t{font-size:22px;font-weight:700}</style>
+<style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;font-weight:500;white-space:pre}.t{font-size:21px;font-weight:700}</style>
 <rect x="1" y="1" width="878" height="326" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
 <rect x="1" y="1" width="6" height="326" rx="3" fill="#ff6ac1"/>
 <text x="34" y="46" class="t" fill="#ff6ac1">About me</text>

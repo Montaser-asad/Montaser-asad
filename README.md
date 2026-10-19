@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,git,linux&perline=7&theme=dark" alt="C, C++, Java, Python, Bash, Git, Linux" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,git,linux,docker&perline=8&theme=dark" alt="C, C++, Java, Python, Bash, Git, Linux, Docker" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-v3.svg" alt="About: a cybersecurity student based in Amman, Jordan, working on a Bachelor's in Cybersecurity at Applied Science University, drawn to security by how much they like finding out how things break. Doing 42 Amman with C and systems projects, running a self-built Debian home server and working on its security and infrastructure. Next goal: go deeper into where systems and security meet. Outside of code: a diploma in Fine Arts (guitar) and chess." width="880" />
+<img src="assets/about-v4.svg" alt="About: a cybersecurity student based in Amman, Jordan, working on a Bachelor's in Cybersecurity at Applied Science University, drawn to security by how much they like finding out how things break. Doing 42 Amman with C and systems projects, running a self-built Debian home server and working on its security and infrastructure. Next goal: go deeper into where systems and security meet. Outside of code: a diploma in Fine Arts (guitar) and chess." width="880" />
 
 &nbsp;
 
