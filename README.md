@@ -37,8 +37,4 @@
 
 ### `montaser@github.com:~$ mail`
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/montserasad@gmail.com-0f111a?style=for-the-badge&logo=gmail&logoColor=5af78e)](mailto:montserasad@gmail.com)
-
-</div>
+[<img src="assets/email.svg" alt="montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
