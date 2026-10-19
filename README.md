@@ -12,11 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-v2.svg" alt="About: Montaser, a student in Amman, Jordan, doing the 42 Amman program (mostly C and systems programming) and a Bachelor's in Cybersecurity at Applied Science University, Amman, graduating in 2029." width="880" />
-
-### `montaser@github.com:~$ cat outside-code.txt`
-
-<img src="assets/outside.svg" alt="Outside of code: guitar (majoring in guitar at a Fine Arts Institute) and chess." width="880" />
+<img src="assets/about-terminal.svg" alt="Terminal: cat about.txt. A cybersecurity student based in Amman, Jordan, studying at Applied Science University (graduating 2029), playing CTFs with Jordan Cyber Club, and doing 42 Amman with C and systems projects like Minishell and Philosophers. Outside of code: guitar and chess." width="880" />
 
 &nbsp;
 
