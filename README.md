@@ -93,10 +93,10 @@ shell pipelines, redirections, `pthreads` & mutexes, memory layout
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&theme=gruvbox&hide_border=true&hide=stars" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=Montaser-asad&theme=gruvbox&hide_border=true" alt="GitHub streak stats" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&theme=gruvbox&hide_border=true" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&theme=gruvbox&hide_border=true&hide=roff,perl" alt="Top languages" />
 
 </div>
 
@@ -105,14 +105,10 @@ shell pipelines, redirections, `pthreads` & mutexes, memory layout
 ## `~/contact.md`
 
 ```text
-$ ./say-hello.sh
+$ mail -s "hello" montserasad@gmail.com
 ```
 
-<!-- TODO: replace the placeholders below with your real links -->
-
-- **Email** — [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn** — [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
-- **Twitter / X** — [@your-handle](https://twitter.com/your-handle)
+- **Email** — [montserasad@gmail.com](mailto:montserasad@gmail.com)
 
 ---
 
