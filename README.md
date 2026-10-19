@@ -1,12 +1,42 @@
-<div align="center">
+<pre>
+<b>montaser@github:~$</b> whoami
+Montaser Asad
 
-<img src="assets/terminal.svg" alt="Terminal: whoami, neofetch, languages, projects" width="640" />
+<b>montaser@github:~$</b> neofetch
+<b>montaser@github</b>
+-----------------
+<b>OS</b>:       GitHub Profile
+<b>Location</b>: Amman, Jordan
+<b>Campus</b>:   42 Amman (ASU)
+<b>Focus</b>:    Systems, Networking
+<b>Language</b>: C
+<b>Shell</b>:    minishell (self-built)
+<b>Contact</b>:  montserasad@gmail.com
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,arduino&perline=6" alt="C, C++, Bash, Git, Linux, Arduino" height="40" /></a>
+<b>montaser@github:~$</b> cat about.txt
+I like knowing what the machine is actually doing.
+Student at 42 Amman. Mostly C: shells, threads, networks, microcontrollers.
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" alt="GitHub stats" />
-<img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&hide=roff,perl&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" alt="Top languages" />
+<b>montaser@github:~$</b> cat stack.txt
+languages : C, C++, Shell, Make
+tools     : Git, Linux, GDB, Arduino
+systems   : fork, pipes, signals, file descriptors, pthreads, mutexes
+networking: IPv4, subnet masks, routing, gateways
 
-[![Email](https://img.shields.io/badge/montserasad@gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white)](mailto:montserasad@gmail.com)
+<b>montaser@github:~$</b> languages
+C     [█████████████████████████████░]  96%
+Make  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]   4%
+      (by lines of code across my 42 repos)
 
-</div>
+<b>montaser@github:~$</b> ls -l projects/
+drwxr-xr-x  <a href="https://github.com/Montaser-asad/minishell">minishell</a>        custom Unix shell in C: pipes, redirections, heredocs
+drwxr-xr-x  <a href="https://github.com/Montaser-asad/Philosophers">Philosophers</a>     dining philosophers with pthreads and mutexes
+drwxr-xr-x  <a href="https://github.com/Montaser-asad/NetPractice">NetPractice</a>      IPv4, subnets, routing across 10 network levels
+drwxr-xr-x  <a href="https://github.com/Montaser-asad/2D-game">2D-game</a>          chess2.0, a chess-themed 2D puzzle game in C
+drwxr-xr-x  <a href="https://github.com/Montaser-asad/Arduino_Projects">Arduino_Projects</a> embedded sketches for Arduino boards
+
+<b>montaser@github:~$</b> cat contact.txt
+email: <a href="mailto:montserasad@gmail.com">montserasad@gmail.com</a>
+
+<b>montaser@github:~$</b> █
+</pre>
