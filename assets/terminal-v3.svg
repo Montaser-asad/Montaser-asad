@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="378" viewBox="0 0 800 378" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman ASU, focus systems networking and cyber security, languages C, C++, Java, Python">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:17px;font-weight:700;white-space:pre}
+.l{opacity:0;animation:s .01s steps(1) var(--t) forwards}@keyframes s{to{opacity:1}}
+.ty{clip-path:inset(0 100% 0 0);animation:ty var(--d) steps(var(--n),end) var(--t) forwards}@keyframes ty{to{clip-path:inset(0 0 0 0)}}
+.cm{opacity:0;animation:vis var(--d) linear var(--t) both,mv var(--d) steps(var(--n),end) var(--t) both}
+@keyframes vis{0%{opacity:0}1%{opacity:1}99%{opacity:1}100%{opacity:0}}
+@keyframes mv{from{transform:translateX(0)}to{transform:translateX(var(--w))}}
+.bl{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style>
+<rect width="800" height="378" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
+<circle cx="28" cy="24" r="8" fill="#ff5555"/>
+<circle cx="54" cy="24" r="8" fill="#ffb86c"/>
+<circle cx="80" cy="24" r="8" fill="#5af78e"/>
+<text x="30" y="70" textLength="235.29" lengthAdjust="spacing" class="l" style="--t:0.40s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
+<text x="265.29" y="70" textLength="61.38" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:6;--d:0.48s;--t:0.65s">whoami</text>
+<rect x="265.29" y="55" width="10.23" height="19" fill="#ffffff" class="cm" style="--n:6;--d:0.48s;--t:0.65s;--w:61.38px"/>
+<text x="30" y="96" textLength="132.99" lengthAdjust="spacing" fill="#5af78e" class="ty" style="--n:13;--d:0.39s;--t:1.33s">MONTASER ASAD</text>
+<text x="30" y="138" textLength="235.29" lengthAdjust="spacing" class="l" style="--t:1.91s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
+<text x="265.29" y="138" textLength="81.84" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:8;--d:0.64s;--t:2.16s">neofetch</text>
+<rect x="265.29" y="123" width="10.23" height="19" fill="#ffffff" class="cm" style="--n:8;--d:0.64s;--t:2.16s;--w:81.84px"/>
+<text x="30" y="168" textLength="194.37" lengthAdjust="spacing" fill="#fff06b" class="ty" style="--n:19;--d:0.28s;--t:3.00s">montaser@github.com</text>
+<text x="30" y="192" textLength="265.98" lengthAdjust="spacing" fill="#fff06b" class="ty" style="--n:26;--d:0.21s;--t:3.33s">--------------------------</text>
+<text x="30" y="220" textLength="184.14" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:18;--d:0.25s;--t:3.57s"><tspan fill="#fff06b">OS: </tspan><tspan fill="#ffffff">GitHub Profile</tspan></text>
+<text x="30" y="246" textLength="235.29" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:23;--d:0.32s;--t:3.87s"><tspan fill="#fff06b">Location: </tspan><tspan fill="#ffffff">Amman, Jordan</tspan></text>
+<text x="30" y="272" textLength="225.06" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:22;--d:0.31s;--t:4.23s"><tspan fill="#fff06b">Campus: </tspan><tspan fill="#ffffff">42 Amman | ASU</tspan></text>
+<text x="30" y="298" textLength="429.66" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:42;--d:0.59s;--t:4.58s"><tspan fill="#fff06b">Focus: </tspan><tspan fill="#ffffff">Systems, Networking, Cyber Security</tspan></text>
+<text x="30" y="324" textLength="317.13" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:31;--d:0.43s;--t:5.20s"><tspan fill="#fff06b">Languages: </tspan><tspan fill="#ffffff">C, C++, Java, Python</tspan></text>
+<text x="30" y="356" textLength="235.29" lengthAdjust="spacing" class="l" style="--t:5.88s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
+<g class="l" style="--t:6.18s"><rect x="265.29" y="341" width="10.23" height="19" fill="#ffffff" class="bl"/></g>
+</svg>
