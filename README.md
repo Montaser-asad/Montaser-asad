@@ -1,96 +1,106 @@
 <div align="center">
 
-# Montaser Asad
-
-<a href="https://github.com/Montaser-asad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D79921&center=true&vCenter=true&width=560&lines=Software+Engineer;Systems+%C2%B7+Networking+%C2%B7+Low-Level+C;Student+at+42+Amman;Make+it+work.+Make+it+right.+Make+it+fast." alt="Typing animation" />
-</a>
-
-Amman, Jordan &nbsp;•&nbsp; **42 Amman** (ASU)
-
-<img src="https://img.shields.io/github/followers/Montaser-asad?style=flat-square&logo=github&color=3c3836&labelColor=282828" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Montaser-asad?style=flat-square&logo=github&color=3c3836&labelColor=282828" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=Montaser-asad&style=flat-square&color=3c3836&label=profile+views" alt="Profile views" />
+<img src="assets/header.svg" alt="Montaser Asad. Software Engineer. Systems, networking, low-level C. Amman, Jordan. 42 Amman (ASU)." width="900" />
 
 </div>
 
----
+&nbsp;
 
-## `~/about.md`
+## 01 &nbsp;Overview
 
-```text
-$ whoami
-montaser-asad
-```
+I'm a software engineer in Amman, Jordan, studying at **42 Amman** (the ASU campus of the 42 network).
 
-Hey, I'm **Montaser**, a software engineer based in Amman, Jordan, and a student at
-**42 Amman** (part of the ASU campus network).
-
-I like building things that live close to the metal: shells, threading primitives,
-network topologies and small embedded toys. Most of my code ends up being C,
-because that's where you stop guessing and start thinking about memory,
-process boundaries and what the machine is *actually* doing.
-
-- 🔭 Working through the **42 curriculum**: Common Core, `minishell`, `Philosophers`, `NetPractice` and whatever comes next
-- 🧠 Digging into processes, signals, file descriptors and concurrency
-- 🔌 Tinkering with Arduino hardware on the side
-
-> Make it work. Make it right. Make it fast.
-> <sub>— Kent Beck</sub>
-
----
-
-## `~/stack.md`
-
-<div align="center">
+I'm drawn to the layer where software meets the machine. I'd rather know what a shell does between `fork` and `exec` than have a framework hide it, and I'd rather reason about a mutex than hope a race doesn't happen. That's why most of my work is in **C**: it keeps me honest about memory, process boundaries and what the hardware is actually doing.
 
 | | |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Shell](https://img.shields.io/badge/shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Make](https://img.shields.io/badge/make-6D8086?style=flat-square&logo=make&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![GDB](https://img.shields.io/badge/gdb-CCB974?style=flat-square) |
-| **Systems & OS** | Unix/Linux, processes & `fork`, file descriptors, signals, pipelines, redirections, `pthreads` & mutexes, memory layout |
+| **Based in** | Amman, Jordan |
+| **Studying** | 42 Amman, working through the Common Core |
+| **Main language** | C |
+| **Interests** | Unix internals, concurrency, networking, embedded hardware |
+| **Reach me** | [montserasad@gmail.com](mailto:montserasad@gmail.com) |
+
+&nbsp;
+
+## 02 &nbsp;Capabilities
+
+| Area | What I work with |
+| :--- | :--- |
+| **Languages** | C, C++, Shell, Make |
+| **Processes** | `fork`, `exec`, pipes, redirections, heredocs, signals, file descriptors |
+| **Concurrency** | `pthreads`, mutexes, synchronization, deadlock avoidance |
+| **Memory** | Memory layout (stack, heap, data, text), allocation and ownership in C |
 | **Networking** | IPv4 addressing, subnet masks, routing, gateways, network topologies |
+| **Embedded** | Arduino sketches and hardware tinkering |
+| **Tooling** | Git, Linux, GDB |
 
-</div>
+&nbsp;
 
----
+## 03 &nbsp;Projects
 
-## `~/projects.md`
+### Systems
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [minishell](https://github.com/Montaser-asad/minishell) | A custom Unix shell in C, re-implementing core Bash functionality: pipes, redirections, heredocs, signals. | `C` |
-| [Philosophers](https://github.com/Montaser-asad/Philosophers) | The Dining Philosophers problem solved with threads, using `pthreads` and mutexes for synchronization. | `C` |
-| [NetPractice](https://github.com/Montaser-asad/NetPractice) | IPv4 addressing, subnet masks, routing and gateways, completed across 10 simulated network levels. | `Networking` |
-| [2D-game](https://github.com/Montaser-asad/2D-game) | `chess2.0`, a chess-themed 2D tile puzzle game in pure C. | `C` |
-| [Arduino_Projects](https://github.com/Montaser-asad/Arduino_Projects) | Embedded sketches and hardware tinkering for Arduino boards. | `C++` |
+**[minishell](https://github.com/Montaser-asad/minishell)** &nbsp;·&nbsp; `C`
+A custom Unix shell that re-implements core Bash behavior: pipes, redirections, heredocs and signal handling.
 
-<sub>More projects coming as I push through the curriculum.</sub>
+**[Philosophers](https://github.com/Montaser-asad/Philosophers)** &nbsp;·&nbsp; `C`
+The Dining Philosophers problem solved with threads. Forks are protected with `pthreads` mutexes so the simulation stays correct under concurrency.
 
----
+### Networking
 
-## `~/stats.md`
+**[NetPractice](https://github.com/Montaser-asad/NetPractice)** &nbsp;·&nbsp; `Networking`
+Ten simulated network levels solved by working out IPv4 addressing, subnet masks, routes and gateways.
+
+### Games and hardware
+
+**[2D-game](https://github.com/Montaser-asad/2D-game)** &nbsp;·&nbsp; `C`
+`chess2.0`, a chess-themed 2D tile puzzle game written in pure C.
+
+**[Arduino_Projects](https://github.com/Montaser-asad/Arduino_Projects)** &nbsp;·&nbsp; `C++`
+Embedded sketches and hardware experiments for Arduino boards.
+
+&nbsp;
+
+## 04 &nbsp;Currently
+
+- Working through the 42 curriculum, with more projects to come after the ones above
+- Going deeper on processes, signals and concurrency
+- Building small things with Arduino on the side
+
+> Make it work. Make it right. Make it fast.
+> <sub>Kent Beck</sub>
+
+&nbsp;
+
+## 05 &nbsp;Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&theme=gruvbox&hide_border=true&hide=stars" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&theme=gruvbox&hide_border=true&hide=roff,perl" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide_border=true&theme=transparent&title_color=ff8a4c&text_color=e8e6e1&icon_color=ff8a4c&hide=stars">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide_border=true&theme=transparent&title_color=d9480f&text_color=1b1b1f&icon_color=d9480f&hide=stars" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&hide_border=true&theme=transparent&title_color=ff8a4c&text_color=e8e6e1&hide=roff,perl">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montaser-asad&layout=compact&hide_border=true&theme=transparent&title_color=d9480f&text_color=1b1b1f&hide=roff,perl" alt="Top languages" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Montaser-asad&theme=gruvbox&hide_border=true" alt="GitHub streak stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Montaser-asad&theme=transparent&hide_border=true&ring=ff8a4c&fire=ff8a4c&currStreakNum=e8e6e1&sideNums=e8e6e1&currStreakLabel=ff8a4c&sideLabels=8d8b86&dates=8d8b86">
+  <img src="https://streak-stats.demolab.com?user=Montaser-asad&theme=transparent&hide_border=true&ring=d9480f&fire=d9480f&currStreakNum=1b1b1f&sideNums=1b1b1f&currStreakLabel=d9480f&sideLabels=6b6a66&dates=6b6a66" alt="GitHub streak stats" />
+</picture>
 
 </div>
 
----
+&nbsp;
 
-## `~/contact.md`
+## 06 &nbsp;Contact
 
-```text
-$ mail -s "hello" montserasad@gmail.com
-```
+Open to talking about systems programming, networking, 42 projects or anything built close to the metal.
 
-[![Email](https://img.shields.io/badge/email-montserasad@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:montserasad@gmail.com)
+**Email:** [montserasad@gmail.com](mailto:montserasad@gmail.com)
 
----
+&nbsp;
 
 <div align="center">
 
