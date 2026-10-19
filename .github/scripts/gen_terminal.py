@@ -1,12 +1,15 @@
 import json, os, sys, datetime, urllib.request
 USER="Montaser-asad"
-def live():
-    req=urllib.request.Request(f"https://api.github.com/users/{USER}",headers={"User-Agent":"terminal-gen"})
+def get(url):
+    req=urllib.request.Request(url,headers={"User-Agent":"terminal-gen"})
     tok=os.environ.get("GITHUB_TOKEN")
     if tok: req.add_header("Authorization",f"Bearer {tok}")
+    return json.load(urllib.request.urlopen(req,timeout=20))
+def live():
     try:
-        d=json.load(urllib.request.urlopen(req,timeout=20))
-        return d["public_repos"],d["followers"]
+        u=get(f"https://api.github.com/users/{USER}")
+        repos=get(f"https://api.github.com/users/{USER}/repos?per_page=100")
+        return u["public_repos"],u["followers"],sum(r["stargazers_count"] for r in repos)
     except Exception as e:
         print("live data unavailable:",e,file=sys.stderr); return None
 LIVE=live()
@@ -40,8 +43,7 @@ prompt(162,"neofetch")
 IX=30
 out(IX,198,"montaser@github.com",19,0.015,YEL); out(IX,226,"-"*26,26,0.008,YEL)
 rows=[("OS","GitHub Profile"),("Location","Amman, Jordan"),("Campus","42 Amman | ASU"),("Focus","Systems, Networking, Cyber Security"),("Languages","C, C++, Java, Python")]
-if LIVE: rows.append(("GitHub",f"{LIVE[0]} repos, {LIVE[1]} followers"))
-rows.append(("Updated",datetime.date.today().isoformat()))
+if LIVE: rows.append(("GitHub",f"{LIVE[0]} repos, {LIVE[1]} followers, {LIVE[2]} stars"))
 for i,(k,v) in enumerate(rows):
     out(IX,258+i*30,f'<tspan fill="{YEL}">{k}: </tspan><tspan fill="{TXT}">{v}</tspan>',len(k)+2+len(v),0.014)
 T[0]+=0.25

@@ -10,6 +10,12 @@
 
 &nbsp;
 
+### `montaser@github.com:~$ cat about.txt`
+
+I'm a software engineer and a student at **42 Amman** (ASU), based in Amman, Jordan. I focus on **systems, networking and cyber security**, and I build most of my projects in **C, C++, Java and Python**: shells, threads, network setups and more.
+
+&nbsp;
+
 ### `montaser@github.com:~$ ls projects/`
 
 <div align="center">
@@ -56,4 +62,4 @@
 
 &nbsp;
 
-<sub>`montaser@github.com:~$ logout`</sub>
+### `montaser@github.com:~$ logout`
