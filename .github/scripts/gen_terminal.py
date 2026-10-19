@@ -1,4 +1,4 @@
-import json, os, sys, datetime, urllib.request
+import json, os, sys, urllib.request
 USER="Montaser-asad"
 def get(url):
     req=urllib.request.Request(url,headers={"User-Agent":"terminal-gen"})
@@ -13,41 +13,61 @@ def live():
     except Exception as e:
         print("live data unavailable:",e,file=sys.stderr); return None
 LIVE=live()
-OUT=sys.argv[1] if len(sys.argv)>1 else "assets/terminal-live.svg"
+OUT=sys.argv[1] if len(sys.argv)>1 else "assets/hero.svg"
+
 BG,PINK,GRN,CYN,YEL,TXT="#0f111a","#ff6ac1","#5af78e","#57d7ff","#fff06b","#ffffff"
-FS=20; CW=12.04; W=880
+FS=18; CW=10.84; W=880; STEP=26
 PFX="montaser@github.com:~$ "
 HID="inset(-6px 100% -6px 0)"; FULL="inset(-6px 0 -6px 0)"; FX="inset(-6px -30px -6px 0)"
 o=[]; T=[0.4]; kf=[]
+def tspan(c,t): return f'<tspan fill="{c}">{t}</tspan>'
 def typed(x,y,inner,n,speed,fill=TXT):
     dur=max(n*speed,0.05)
     o.append(f'<text x="{x}" y="{y}" textLength="{n*CW:.2f}" lengthAdjust="spacing" fill="{fill}" class="ty" style="--n:{n};--d:{dur:.2f}s;--t:{T[0]:.2f}s">{inner}</text>')
     T[0]+=dur; return dur
 def prefix(y):
-    o.append(f'<text x="30" y="{y}" textLength="{len(PFX)*CW:.2f}" lengthAdjust="spacing" class="l" style="--t:{T[0]:.2f}s"><tspan fill="{PINK}">montaser@github.com</tspan><tspan fill="{TXT}">:</tspan><tspan fill="{CYN}">~</tspan><tspan fill="{GRN}">$ </tspan></text>')
+    o.append(f'<text x="30" y="{y}" textLength="{len(PFX)*CW:.2f}" lengthAdjust="spacing" class="l" style="--t:{T[0]:.2f}s">{tspan(PINK,"montaser@github.com")}{tspan(TXT,":")}{tspan(CYN,"~")}{tspan(GRN,"$ ")}</text>')
 def prompt(y,cmd):
     prefix(y); T[0]+=0.25
     x=30+len(PFX)*CW; n=len(cmd); t0=T[0]
     dur=typed(x,y,cmd,n,0.08)
-    o.append(f'<rect x="{x:.2f}" y="{y-19}" width="{CW}" height="24" fill="{TXT}" class="cm" style="--n:{n};--d:{dur:.2f}s;--t:{t0:.2f}s;--w:{n*CW:.2f}px"/>')
+    o.append(f'<rect x="{x:.2f}" y="{y-17}" width="{CW}" height="22" fill="{TXT}" class="cm" style="--n:{n};--d:{dur:.2f}s;--t:{t0:.2f}s;--w:{n*CW:.2f}px"/>')
     T[0]+=0.2
-def out(x,y,inner,n,speed=0.02,fill=TXT):
-    typed(x,y,inner,n,speed,fill); T[0]+=0.04
-o.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="@@H@@" viewBox="0 0 {W} @@H@@" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman ASU, focus systems networking and cyber security, languages C, C++, Java, Python; a prompt that keeps typing: Cyber Security student, 42 Amman student, Software Engineer, Systems and Networking enthusiast">')
+def out(y,parts,speed=0.02):
+    n=sum(len(t) for c,t in parts)
+    typed(30,y,"".join(tspan(c,t) for c,t in parts),n,speed); T[0]+=0.05
+
+rows=[("OS","GitHub Profile"),("Focus","Systems, Networking, Cyber Security"),("Languages","C, C++, Java, Python")]
+if LIVE: rows.append(("GitHub",f"{LIVE[0]} repos, {LIVE[1]} followers, {LIVE[2]} stars"))
+about=[
+ [(TXT,"I'm a "),(CYN,"cybersecurity"),(TXT," student based in Amman, Jordan.")],
+ [(TXT,"I'm studying for a Bachelor's in "),(CYN,"Cybersecurity"),(TXT," at Applied")],
+ [(TXT,"Science University (graduating 2029).")],
+ [(TXT,"Alongside that I'm doing "),(YEL,"42 Amman"),(TXT,", where I write "),(GRN,"C"),(TXT," and")],
+ [(TXT,"systems projects.")],
+ [(TXT,"Outside of code: I have a diploma in "),(YEL,"Fine Arts"),(TXT," (guitar)")],
+ [(TXT,"and I play chess.")],
+]
+Y1=70; Y2=Y1+STEP*1+30        # whoami out at Y1+26
+YN=Y2                          # neofetch prompt
+rows_y0=YN+30
+YA=rows_y0+STEP*(len(rows)-1)+44   # cat about.txt prompt
+ay0=YA+30
+Y=ay0+STEP*(len(about)-1)+44       # loop prompt
+H=Y+30
+o.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="@@H@@" viewBox="0 0 {W} @@H@@" role="img" aria-label="Terminal session: whoami, neofetch, cat about.txt. Montaser Asad, a cybersecurity student in Amman, Jordan, studying at Applied Science University (graduating 2029), doing 42 Amman with C and systems projects, with a diploma in Fine Arts (guitar) who plays chess. A prompt keeps typing: Cyber Security student, 42 Amman student, Software Engineer, Systems and Networking enthusiast.">')
 o.append('@@STYLE@@')
 o.append(f'<rect width="{W}" height="@@H@@" rx="12" fill="{BG}" stroke="#2a2d3e" stroke-width="2"/>')
-for i,c in enumerate(["#ff5555","#ffb86c","#5af78e"]): o.append(f'<circle cx="{30+i*28}" cy="28" r="9" fill="{c}"/>')
-prompt(84,"whoami"); out(30,114,"MONTASER ASAD",13,0.03,GRN)
+for i,c in enumerate(["#ff5555","#ffb86c","#5af78e"]): o.append(f'<circle cx="{30+i*28}" cy="26" r="8" fill="{c}"/>')
+prompt(Y1,"whoami"); out(Y1+STEP,[(GRN,"MONTASER ASAD")],0.03)
 T[0]+=0.15
-prompt(162,"neofetch")
-IX=30
-out(IX,198,"montaser@github.com",19,0.015,YEL); out(IX,226,"-"*26,26,0.008,YEL)
-rows=[("OS","GitHub Profile"),("Location","Amman, Jordan"),("Campus","42 Amman | ASU"),("Focus","Systems, Networking, Cyber Security"),("Languages","C, C++, Java, Python")]
-if LIVE: rows.append(("GitHub",f"{LIVE[0]} repos, {LIVE[1]} followers, {LIVE[2]} stars"))
-for i,(k,v) in enumerate(rows):
-    out(IX,258+i*30,f'<tspan fill="{YEL}">{k}: </tspan><tspan fill="{TXT}">{v}</tspan>',len(k)+2+len(v),0.014)
+prompt(YN,"neofetch")
+for i,(k,v) in enumerate(rows): out(rows_y0+i*STEP,[(YEL,k+": "),(TXT,v)],0.014)
+T[0]+=0.2
+prompt(YA,"cat about.txt")
+for i,l in enumerate(about): out(ay0+i*STEP,l,0.018)
 T[0]+=0.25
-Y=258+30*(len(rows)-1)+54; H=Y+30; prefix(Y); T[0]+=0.3
+prefix(Y); T[0]+=0.3
 x0=30+len(PFX)*CW
 phr=["Cyber Security student","42 Amman student","Software Engineer","Systems & Networking enthusiast"]
 HOLD,GAP=1.4,0.35
@@ -67,7 +87,7 @@ for i,p in enumerate(phr):
     tail=(f"{P(e)}{{opacity:1}}{P(e+E*C)}{{opacity:0}}100%{{opacity:0}}" if e<C-1e-9 else "100%{opacity:1}")
     kf.append(f"@keyframes pc{i}{{{pre}{first}{P(b)}{{transform:translateX({w:.2f}px)}}{P(c)}{{transform:translateX({w:.2f}px);animation-timing-function:steps({n},end)}}{P(d)}{{transform:translateX(0)}}{tail}}}")
     o.append(f'<text x="{x0:.2f}" y="{Y}" textLength="{w:.2f}" lengthAdjust="spacing" fill="{TXT}" class="ph" style="animation:pt{i} {C:.2f}s linear {T[0]:.2f}s infinite">{esc}</text>')
-    o.append(f'<rect x="{x0:.2f}" y="{Y-19}" width="{CW}" height="24" fill="{TXT}" class="pc" style="animation:pc{i} {C:.2f}s linear {T[0]:.2f}s infinite"/>')
+    o.append(f'<rect x="{x0:.2f}" y="{Y-17}" width="{CW}" height="22" fill="{TXT}" class="pc" style="animation:pc{i} {C:.2f}s linear {T[0]:.2f}s infinite"/>')
     off+=slot
 style=f'''<style>
 text{{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:{FS}px;font-weight:700;white-space:pre}}
@@ -83,4 +103,4 @@ text{{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas
 o=[x.replace('@@STYLE@@',style).replace('@@H@@',str(H)) for x in o]
 o.append('</svg>')
 open(OUT,'w').write("\n".join(o))
-print("intro",round(T[0],1),"loop",round(C,1))
+print("H",H,"intro",round(T[0],1),"loop",round(C,1))

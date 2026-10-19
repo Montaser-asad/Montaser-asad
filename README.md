@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="assets/terminal-live.svg" alt="Terminal session: whoami, neofetch" width="880" />
+<img src="assets/hero.svg" alt="Terminal session: whoami, neofetch, cat about.txt. Montaser Asad, a cybersecurity student in Amman, Jordan, studying at Applied Science University, doing 42 Amman with C and systems projects, with a diploma in Fine Arts (guitar) who plays chess." width="880" />
 
 <br><br>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,git,linux&perline=7&theme=dark" alt="C, C++, Java, Python, Bash, Git, Linux" /></a>
 
 </div>
-
-&nbsp;
-
-### `montaser@github.com:~$ cat about.txt`
-
-<img src="assets/about-card.svg" alt="Terminal: cat about.txt. A cybersecurity student based in Amman, Jordan, studying for a Bachelor's in Cybersecurity at Applied Science University (graduating 2029), doing 42 Amman with C and systems projects. Outside of code: a diploma in Fine Arts (guitar), and chess." width="880" />
 
 &nbsp;
 
