@@ -12,7 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-card.svg" alt="Terminal: cat about.txt. A cybersecurity student based in Amman, Jordan, studying for a Bachelor's in Cybersecurity at Applied Science University (graduating 2029), doing 42 Amman with C and systems projects. Outside of code: a diploma in Fine Arts (guitar), and chess." width="880" />
+<img src="assets/about-normal.svg" alt="About: a cybersecurity student based in Amman, Jordan, studying for a Bachelor's in Cybersecurity at Applied Science University (graduating 2029) and doing 42 Amman, where I write C and systems projects. Outside of code: a diploma in Fine Arts (guitar) and chess." width="880" />
 
 &nbsp;
 

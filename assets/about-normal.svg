@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="294" viewBox="0 0 880 294" role="img" aria-label="About: a cybersecurity student based in Amman, Jordan, studying for a Bachelor's in Cybersecurity at Applied Science University (graduating 2029) and doing 42 Amman, where I write C and systems projects. Outside of code: a diploma in Fine Arts (guitar) and chess.">
+<style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:21px;font-weight:500;white-space:pre}.t{font-size:24px;font-weight:700}</style>
+<rect x="1" y="1" width="878" height="292" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="292" rx="3" fill="#ff6ac1"/>
+<text x="34" y="52" class="t" fill="#ff6ac1">About me</text>
+<rect x="34" y="62" width="48" height="3" rx="1.5" fill="#ff6ac1"/>
+<text x="34" y="100"><tspan fill="#ffffff">I'm a </tspan><tspan fill="#57d7ff">cybersecurity</tspan><tspan fill="#ffffff"> student based in Amman, Jordan.</tspan></text>
+<text x="34" y="130"><tspan fill="#ffffff">I'm studying for a Bachelor's in </tspan><tspan fill="#57d7ff">Cybersecurity</tspan><tspan fill="#ffffff"> at Applied Science</tspan></text>
+<text x="34" y="160"><tspan fill="#ffffff">University (graduating 2029) and doing </tspan><tspan fill="#fff06b">42 Amman</tspan><tspan fill="#ffffff">, where I write </tspan><tspan fill="#5af78e">C</tspan></text>
+<text x="34" y="190"><tspan fill="#ffffff">and systems projects.</tspan></text>
+<text x="34" y="236"><tspan fill="#ffffff">Outside of code: I have a diploma in </tspan><tspan fill="#fff06b">Fine Arts</tspan><tspan fill="#ffffff"> (guitar)</tspan></text>
+<text x="34" y="266"><tspan fill="#ffffff">and I play chess.</tspan></text>
+</svg>
