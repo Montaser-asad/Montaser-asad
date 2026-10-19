@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-v6.svg" alt="Terminal session: whoami, neofetch" width="880" />
+<img src="assets/terminal.svg" alt="Terminal session: whoami, neofetch" width="880" />
 
 <br><br>
 
@@ -35,6 +35,25 @@
 
 &nbsp;
 
-### `montaser@github.com:~$ mail`
+### `montaser@github.com:~$ ./contributions`
 
-[<img src="assets/email.svg" alt="montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake.svg" />
+</picture>
+
+</div>
+
+&nbsp;
+
+### `montaser@github.com:~$ ./contact`
+
+[<img src="assets/email.svg" alt="Email: montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
+[<img src="assets/linkedin.svg" alt="LinkedIn" height="60" />](https://www.linkedin.com/in/montaser-asad-627a84210/)
+[<img src="assets/htb.svg" alt="Hack The Box" height="60" />](https://profile.hackthebox.com/profile/019f344e-fd61-7141-952d-4e62ca1b30e7)
+
+&nbsp;
+
+<sub>`montaser@github.com:~$ logout`</sub>

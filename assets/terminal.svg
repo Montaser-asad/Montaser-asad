@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="462" viewBox="0 0 880 462" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman ASU, focus systems networking and cyber security, languages C, C++, Java, Python; a prompt that keeps typing: Cyber Security student, 42 Amman student, Software Engineer, Systems and Networking enthusiast">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="522" viewBox="0 0 880 522" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman ASU, focus systems networking and cyber security, languages C, C++, Java, Python; a prompt that keeps typing: Cyber Security student, 42 Amman student, Software Engineer, Systems and Networking enthusiast">
 <style>
 text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,monospace;font-size:20px;font-weight:700;white-space:pre}
 .l{opacity:0;animation:s .01s steps(1) var(--t) forwards}@keyframes s{to{opacity:1}}
@@ -17,7 +17,7 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 @keyframes pt3{0%,68.310%{clip-path:inset(-6px 100% -6px 0);animation-timing-function:steps(31,end)}83.155%{clip-path:inset(-6px 0 -6px 0)}83.255%{clip-path:inset(-6px -30px -6px 0)}91.042%{clip-path:inset(-6px -30px -6px 0)}91.142%{clip-path:inset(-6px 0 -6px 0);animation-timing-function:steps(31,end)}98.028%{clip-path:inset(-6px 100% -6px 0)}100%{clip-path:inset(-6px 100% -6px 0)}}
 @keyframes pc3{0%,68.210%{opacity:0}68.310%{opacity:1;transform:translateX(0);animation-timing-function:steps(31,end)}83.155%{transform:translateX(373.24px)}91.042%{transform:translateX(373.24px);animation-timing-function:steps(31,end)}98.028%{transform:translateX(0)}100%{opacity:1}}
 </style>
-<rect width="880" height="462" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
+<rect width="880" height="522" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
 <circle cx="30" cy="28" r="9" fill="#ff5555"/>
 <circle cx="58" cy="28" r="9" fill="#ffb86c"/>
 <circle cx="86" cy="28" r="9" fill="#5af78e"/>
@@ -35,13 +35,15 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 <text x="30" y="318" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:22;--d:0.31s;--t:4.23s"><tspan fill="#fff06b">Campus: </tspan><tspan fill="#ffffff">42 Amman | ASU</tspan></text>
 <text x="30" y="348" textLength="505.68" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:42;--d:0.59s;--t:4.58s"><tspan fill="#fff06b">Focus: </tspan><tspan fill="#ffffff">Systems, Networking, Cyber Security</tspan></text>
 <text x="30" y="378" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:31;--d:0.43s;--t:5.20s"><tspan fill="#fff06b">Languages: </tspan><tspan fill="#ffffff">C, C++, Java, Python</tspan></text>
-<text x="30" y="432" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:5.93s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
-<text x="306.92" y="432" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt0 17.75s linear 6.23s infinite">Cyber Security student</text>
-<rect x="306.92" y="413" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc0 17.75s linear 6.23s infinite"/>
-<text x="306.92" y="432" textLength="192.64" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt1 17.75s linear 6.23s infinite">42 Amman student</text>
-<rect x="306.92" y="413" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc1 17.75s linear 6.23s infinite"/>
-<text x="306.92" y="432" textLength="204.68" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt2 17.75s linear 6.23s infinite">Software Engineer</text>
-<rect x="306.92" y="413" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc2 17.75s linear 6.23s infinite"/>
-<text x="306.92" y="432" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt3 17.75s linear 6.23s infinite">Systems &amp; Networking enthusiast</text>
-<rect x="306.92" y="413" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc3 17.75s linear 6.23s infinite"/>
+<text x="30" y="408" textLength="337.12" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:28;--d:0.39s;--t:5.68s"><tspan fill="#fff06b">GitHub: </tspan><tspan fill="#ffffff">6 repos, 8 followers</tspan></text>
+<text x="30" y="438" textLength="228.76" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:19;--d:0.27s;--t:6.11s"><tspan fill="#fff06b">Updated: </tspan><tspan fill="#ffffff">2026-10-20</tspan></text>
+<text x="30" y="492" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:6.67s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
+<text x="306.92" y="492" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt0 17.75s linear 6.97s infinite">Cyber Security student</text>
+<rect x="306.92" y="473" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc0 17.75s linear 6.97s infinite"/>
+<text x="306.92" y="492" textLength="192.64" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt1 17.75s linear 6.97s infinite">42 Amman student</text>
+<rect x="306.92" y="473" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc1 17.75s linear 6.97s infinite"/>
+<text x="306.92" y="492" textLength="204.68" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt2 17.75s linear 6.97s infinite">Software Engineer</text>
+<rect x="306.92" y="473" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc2 17.75s linear 6.97s infinite"/>
+<text x="306.92" y="492" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt3 17.75s linear 6.97s infinite">Systems &amp; Networking enthusiast</text>
+<rect x="306.92" y="473" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc3 17.75s linear 6.97s infinite"/>
 </svg>
