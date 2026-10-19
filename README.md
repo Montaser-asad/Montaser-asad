@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,git,linux,ubuntu&perline=8&theme=dark" alt="C, C++, Java, Python, Bash, Git, Linux, Ubuntu" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,git,linux&perline=7&theme=dark" alt="C, C++, Java, Python, Bash, Git, Linux" /></a>
 
 </div>
 
@@ -28,14 +28,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&card_width=495&line_height=30&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
+<img width="420" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
 
 </div>
 
 &nbsp;
 
-<pre>
-<b>montaser@github.com:~$</b> mail
-<a href="mailto:montserasad@gmail.com">montserasad@gmail.com</a>
-</pre>
+### `montaser@github.com:~$ mail`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/montserasad@gmail.com-0f111a?style=for-the-badge&logo=gmail&logoColor=5af78e)](mailto:montserasad@gmail.com)
+
+</div>
