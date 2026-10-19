@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="Terminal session: whoami, neofetch" width="880" />
+<img src="assets/terminal-live.svg" alt="Terminal session: whoami, neofetch" width="880" />
 
 <br><br>
 
@@ -12,7 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-I'm a software engineer and a student at **42 Amman** (ASU), based in Amman, Jordan. I focus on **systems, networking and cyber security**, and I build most of my projects in **C, C++, Java and Python**: shells, threads, network setups and more.
+<img src="assets/about.svg" alt="About: software engineer and 42 Amman (ASU) student in Amman, Jordan, focused on systems, networking and cyber security, building in C, C++, Java and Python." width="880" />
 
 &nbsp;
 
@@ -46,8 +46,8 @@ I'm a software engineer and a student at **42 Amman** (ASU), based in Amman, Jor
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake-dark.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Montaser-asad/Montaser-asad/output/github-snake.svg?v=2" />
 </picture>
 
 </div>

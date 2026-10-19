@@ -13,7 +13,7 @@ def live():
     except Exception as e:
         print("live data unavailable:",e,file=sys.stderr); return None
 LIVE=live()
-OUT=sys.argv[1] if len(sys.argv)>1 else "assets/terminal.svg"
+OUT=sys.argv[1] if len(sys.argv)>1 else "assets/terminal-live.svg"
 BG,PINK,GRN,CYN,YEL,TXT="#0f111a","#ff6ac1","#5af78e","#57d7ff","#fff06b","#ffffff"
 FS=20; CW=12.04; W=880
 PFX="montaser@github.com:~$ "
