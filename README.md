@@ -1,46 +1,46 @@
 <div align="center">
 
-<img src="assets/terminal-v3.svg" alt="Terminal session: whoami, neofetch" width="800" />
+<img src="assets/terminal-v4.svg" alt="Terminal session: whoami, neofetch" width="800" />
 
 <br><br>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,bash,git,linux,arduino&perline=6&theme=dark" alt="C, C++, Bash, Git, Linux, Arduino" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,java,py,git,linux&perline=6&theme=dark" alt="C, C++, Java, Python, Git, Linux" /></a>
 
 </div>
 
 &nbsp;
 
-### `$ ls -l ~/projects`
+### `montaser-asad@github.com:~$ ls projects/`
 
 <table>
 <tr>
-<td><a href="https://github.com/Montaser-asad/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=minishell&theme=dracula&hide_border=true&bg_color=282a36" alt="minishell" /></a></td>
-<td><a href="https://github.com/Montaser-asad/Philosophers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Philosophers&theme=dracula&hide_border=true&bg_color=282a36" alt="Philosophers" /></a></td>
+<td><a href="https://github.com/Montaser-asad/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=minishell&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="minishell" /></a></td>
+<td><a href="https://github.com/Montaser-asad/Philosophers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Philosophers&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="Philosophers" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Montaser-asad/NetPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=NetPractice&theme=dracula&hide_border=true&bg_color=282a36" alt="NetPractice" /></a></td>
-<td><a href="https://github.com/Montaser-asad/2D-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=2D-game&theme=dracula&hide_border=true&bg_color=282a36" alt="2D-game" /></a></td>
+<td><a href="https://github.com/Montaser-asad/NetPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=NetPractice&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="NetPractice" /></a></td>
+<td><a href="https://github.com/Montaser-asad/2D-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=2D-game&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="2D-game" /></a></td>
 </tr>
 </table>
 
 &nbsp;
 
-### `$ ./stats --github`
+### `montaser-asad@github.com:~$ ./stats --github`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dracula&hide_border=true&bg_color=282a36" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
 
-<img src="https://streak-stats.demolab.com?user=Montaser-asad&theme=dracula&hide_border=true&background=282a36" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
 
 </div>
 
 &nbsp;
 
-### `$ mail montserasad@gmail.com`
+### `montaser-asad@github.com:~$ mail montserasad@gmail.com`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/montserasad@gmail.com-282a36?style=for-the-badge&logo=gmail&logoColor=50fa7b)](mailto:montserasad@gmail.com)
+[![Email](https://img.shields.io/badge/montserasad@gmail.com-0f111a?style=for-the-badge&logo=gmail&logoColor=5af78e)](mailto:montserasad@gmail.com)
 
 </div>
