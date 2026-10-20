@@ -57,7 +57,7 @@
 ### `montaser@github.com:~$ ./contact`
 
 [<img src="assets/email.svg" alt="Email: montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
-[<img src="assets/linkedin.svg" alt="LinkedIn" height="60" />](https://www.linkedin.com/in/montaser-asad-627a84210/)
+[<img src="assets/linkedin.svg" alt="LinkedIn" height="60" />](https://www.linkedin.com/in/%E2%80%AAmontaser-asad%E2%80%AC%E2%80%8F-627a84210/)
 [<img src="assets/htb.svg" alt="Hack The Box" height="60" />](https://profile.hackthebox.com/profile/019f344e-fd61-7141-952d-4e62ca1b30e7)
 
 &nbsp;
