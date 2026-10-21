@@ -35,14 +35,14 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 <text x="30" y="318" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:22;--d:0.31s;--t:4.23s"><tspan fill="#fff06b">Campus: </tspan><tspan fill="#ffffff">42 Amman | ASU</tspan></text>
 <text x="30" y="348" textLength="505.68" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:42;--d:0.59s;--t:4.58s"><tspan fill="#fff06b">Focus: </tspan><tspan fill="#ffffff">Systems, Networking, Cyber Security</tspan></text>
 <text x="30" y="378" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:31;--d:0.43s;--t:5.20s"><tspan fill="#fff06b">Languages: </tspan><tspan fill="#ffffff">C, C++, Java, Python</tspan></text>
-<text x="30" y="408" textLength="445.48" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:37;--d:0.52s;--t:5.68s"><tspan fill="#fff06b">GitHub: </tspan><tspan fill="#ffffff">7 repos, 9 followers, 2 stars</tspan></text>
-<text x="30" y="462" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:6.49s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
-<text x="306.92" y="462" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt0 17.75s linear 6.79s infinite">Cyber Security student</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc0 17.75s linear 6.79s infinite"/>
-<text x="306.92" y="462" textLength="192.64" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt1 17.75s linear 6.79s infinite">42 Amman student</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc1 17.75s linear 6.79s infinite"/>
-<text x="306.92" y="462" textLength="204.68" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt2 17.75s linear 6.79s infinite">Software Engineer</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc2 17.75s linear 6.79s infinite"/>
-<text x="306.92" y="462" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt3 17.75s linear 6.79s infinite">Systems &amp; Networking enthusiast</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc3 17.75s linear 6.79s infinite"/>
+<text x="30" y="408" textLength="457.52" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:38;--d:0.53s;--t:5.68s"><tspan fill="#fff06b">GitHub: </tspan><tspan fill="#ffffff">7 repos, 10 followers, 3 stars</tspan></text>
+<text x="30" y="462" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:6.50s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
+<text x="306.92" y="462" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt0 17.75s linear 6.80s infinite">Cyber Security student</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc0 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="192.64" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt1 17.75s linear 6.80s infinite">42 Amman student</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc1 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="204.68" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt2 17.75s linear 6.80s infinite">Software Engineer</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc2 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt3 17.75s linear 6.80s infinite">Systems &amp; Networking enthusiast</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc3 17.75s linear 6.80s infinite"/>
 </svg>
