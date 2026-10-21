@@ -20,24 +20,10 @@
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Montaser-asad/minishell"><img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=minishell&description_lines_count=3&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="minishell" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Montaser-asad/Philosophers"><img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Philosophers&description_lines_count=3&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="Philosophers" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Montaser-asad/NetPractice"><img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=NetPractice&description_lines_count=3&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="NetPractice" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Montaser-asad/2D-game"><img align="top" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=2D-game&description_lines_count=3&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="2D-game" /></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Montaser-asad/minishell"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=minishell&description_lines_count=3&theme=dark&bg_color=00000000&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="minishell" /></a>
+<a href="https://github.com/Montaser-asad/Philosophers"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=Philosophers&description_lines_count=3&theme=dark&bg_color=00000000&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="Philosophers" /></a>
+<a href="https://github.com/Montaser-asad/NetPractice"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=NetPractice&description_lines_count=3&theme=dark&bg_color=00000000&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="NetPractice" /></a>
+<a href="https://github.com/Montaser-asad/2D-game"><img align="top" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Montaser-asad&repo=2D-game&description_lines_count=3&theme=dark&bg_color=00000000&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="2D-game" /></a>
 
 </div>
 
@@ -47,8 +33,8 @@
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&card_width=495&line_height=30&theme=dark&bg_color=0f111a&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
-<img width="420" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0f111a&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Montaser-asad&show_icons=true&hide=stars&card_width=495&line_height=30&theme=dark&bg_color=00000000&border_color=2a2d3e&title_color=ff6ac1&text_color=ffffff&icon_color=5af78e" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=00000000&border=2a2d3e&ring=5af78e&fire=ff6ac1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=fff06b&sideLabels=ffffff&dates=57d7ff" alt="GitHub streak stats" />
 
 </div>
 
