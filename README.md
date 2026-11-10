@@ -12,11 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-I'm Montaser, a cybersecurity student at Applied Science University in Amman and a student at 42 Amman. I like understanding how systems work, tracing what happens when they fail, and using that knowledge to make them more reliable and secure.
-
-At 42, I build projects in C that take me closer to the operating system: shell behavior, processes, threads, and networking. I also run a self-built Debian home server, where I work on the security and infrastructure behind the services I use.
-
-I'm focused on the intersection of systems programming and cybersecurity. Outside the terminal, I play chess and guitar, and hold a diploma in Fine Arts (guitar).
+<img src="assets/about-v4.svg?v=about-card-2" alt="Montaser is a cybersecurity student at Applied Science University in Amman, Jordan, and a student at 42 Amman. His main interests are C programming, Linux, networking, and the security of the systems that connect them. His projects include a Unix shell, concurrent programs, and network configuration exercises. He also runs a self-built Debian home server, using it to explore infrastructure and system security beyond the classroom. He is building toward a career where systems programming and cybersecurity meet. Away from the terminal, Montaser plays chess and guitar and holds a diploma in Fine Arts (guitar)." width="880" />
 
 &nbsp;
 
