@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="362" viewBox="0 0 880 362" role="img" aria-labelledby="about-title about-description">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="336" viewBox="0 0 880 336" role="img" aria-labelledby="about-title about-description">
 <title id="about-title">About Montaser</title>
-<desc id="about-description">Montaser is a cybersecurity student at Applied Science University in Amman, Jordan, and a student at 42 Amman. His main interests are C programming, Linux, networking, and the security of the systems that connect them. His projects include a Unix shell, concurrent programs, and network configuration exercises. He also runs a self-built Debian home server, using it to explore infrastructure and system security beyond the classroom. He is building toward a career where systems programming and cybersecurity meet. Away from the terminal, Montaser plays chess and guitar and holds a diploma in Fine Arts (guitar).</desc>
+<desc id="about-description">Montaser is a cybersecurity student interested in what happens beneath the surface of software: how processes run, how threads share resources, and how machines communicate. He explores those ideas through C projects, from building a Unix shell to working with concurrency and network configurations. He also runs a self-built Debian home server, where he experiments with services, infrastructure, and system security. He wants to understand both how software is built and how it can fail, bringing that perspective to his cybersecurity studies. Outside of computing, he plays chess and guitar and holds a diploma in Fine Arts (guitar).</desc>
 <style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;font-weight:500;white-space:pre}.title{font-size:21px;font-weight:700}</style>
-<rect x="1" y="1" width="878" height="360" rx="12" fill="#101619" stroke="#2b3b40" stroke-width="2"/>
+<rect x="1" y="1" width="878" height="334" rx="12" fill="#101619" stroke="#2b3b40" stroke-width="2"/>
 <text x="34" y="38" class="title" fill="#6ee7b7">About me</text>
 <path d="M34 54H846" stroke="#2b3b40"/>
-<text x="34" y="84" fill="#e6edf3"><tspan fill="#6ee7b7">Montaser</tspan> is a <tspan fill="#67d4e8">cybersecurity</tspan> student at Applied Science University in Amman, Jordan, and</text>
-<text x="34" y="110" fill="#e6edf3">a student at <tspan fill="#e6c38b">42 Amman</tspan>. His main interests are <tspan fill="#67d4e8">C programming</tspan>, <tspan fill="#67d4e8">Linux</tspan>, networking, and the</text>
-<text x="34" y="136" fill="#e6edf3">security of the systems that connect them.</text>
-<text x="34" y="178" fill="#e6edf3">His projects include a <tspan fill="#67d4e8">Unix shell</tspan>, concurrent programs, and network configuration</text>
-<text x="34" y="204" fill="#e6edf3">exercises. He also runs a self-built <tspan fill="#e6c38b">Debian home server</tspan>, using it to explore</text>
-<text x="34" y="230" fill="#e6edf3">infrastructure and system security beyond the classroom.</text>
-<text x="34" y="272" fill="#e6edf3">He is building toward a career where <tspan fill="#67d4e8">systems programming</tspan> and <tspan fill="#67d4e8">cybersecurity</tspan> meet. Away</text>
-<text x="34" y="298" fill="#e6edf3">from the terminal, <tspan fill="#6ee7b7">Montaser</tspan> plays chess and guitar and holds a diploma in Fine Arts</text>
-<text x="34" y="324" fill="#e6edf3">(guitar).</text>
+<text x="34" y="84" fill="#e6edf3"><tspan fill="#6ee7b7">Montaser</tspan> is a <tspan fill="#67d4e8">cybersecurity</tspan> student interested in what happens beneath the surface of</text>
+<text x="34" y="110" fill="#e6edf3">software: how processes run, how threads share resources, and how machines communicate.</text>
+<text x="34" y="152" fill="#e6edf3">He explores those ideas through <tspan fill="#67d4e8">C projects</tspan>, from building a <tspan fill="#67d4e8">Unix shell</tspan> to working with</text>
+<text x="34" y="178" fill="#e6edf3"><tspan fill="#67d4e8">concurrency</tspan> and network configurations. He also runs a self-built <tspan fill="#e6c38b">Debian home server</tspan>,</text>
+<text x="34" y="204" fill="#e6edf3">where he experiments with services, infrastructure, and <tspan fill="#67d4e8">system security</tspan>.</text>
+<text x="34" y="246" fill="#e6edf3">He wants to understand both how software is built and how it can fail, bringing that</text>
+<text x="34" y="272" fill="#e6edf3">perspective to his <tspan fill="#67d4e8">cybersecurity</tspan> studies. Outside of computing, he plays chess and</text>
+<text x="34" y="298" fill="#e6edf3">guitar and holds a diploma in <tspan fill="#e6c38b">Fine Arts (guitar)</tspan>.</text>
 </svg>
