@@ -12,7 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-v4.svg?v=about-card-4" alt="Hi, I'm Montaser. I'm a Cybersecurity and Software Engineering student with a strong passion for building and understanding low level systems. Currently studying at 42 and ASU, my technical focus spans C/C++ systems programming, UNIX environments, digital forensics, and secure infrastructure. I enjoy breaking down complex problems, whether that means tackling CTF challenges or analyzing data. Outside the terminal, I stay creative by playing guitar, designing pixel art, and helping lead the GDGoC tech community." width="880" />
+<img src="assets/about-v4.svg?v=about-card-5" alt="Hi, I'm Montaser. I'm a Cybersecurity and Software Engineering student with a strong passion for building and understanding low level systems. Currently studying at 42 and ASU, my technical focus spans C/C++ systems programming, UNIX environments, digital forensics, and secure infrastructure. I enjoy breaking down complex problems, whether that means tackling CTF challenges or analyzing data. Outside the terminal, I enjoy playing guitar, traveling, and helping lead the GDGoC tech community." width="880" />
 
 &nbsp;
 
@@ -31,7 +31,7 @@
 
 ### `montaser@github.com:~$ cat beyond-the-terminal.txt`
 
-<img src="assets/beyond-the-terminal.svg?v=1" alt="Beyond the terminal: playing guitar, designing pixel art, and helping lead the GDGoC tech community." width="880" />
+<img src="assets/beyond-the-terminal.svg?v=2" alt="Beyond the terminal: playing guitar, traveling, and helping lead the GDGoC tech community." width="880" />
 
 &nbsp;
 

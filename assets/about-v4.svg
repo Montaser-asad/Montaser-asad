@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="310" viewBox="0 0 880 310" role="img" aria-labelledby="about-title about-description">
 <title id="about-title">About Montaser</title>
-<desc id="about-description">Hi, I'm Montaser. I'm a Cybersecurity and Software Engineering student with a strong passion for building and understanding low level systems. Currently studying at 42 and ASU, my technical focus spans C/C++ systems programming, UNIX environments, digital forensics, and secure infrastructure. I enjoy breaking down complex problems, whether that means tackling CTF challenges or analyzing data. Outside the terminal, I stay creative by playing guitar, designing pixel art, and helping lead the GDGoC tech community.</desc>
+<desc id="about-description">Hi, I'm Montaser. I'm a Cybersecurity and Software Engineering student with a strong passion for building and understanding low level systems. Currently studying at 42 and ASU, my technical focus spans C/C++ systems programming, UNIX environments, digital forensics, and secure infrastructure. I enjoy breaking down complex problems, whether that means tackling CTF challenges or analyzing data. Outside the terminal, I enjoy playing guitar, traveling, and helping lead the GDGoC tech community.</desc>
 <style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;font-weight:500;white-space:pre}.title{font-size:21px;font-weight:700}</style>
 <rect x="1" y="1" width="878" height="308" rx="12" fill="#101619" stroke="#2b3b40" stroke-width="2"/>
 <text x="34" y="38" class="title" fill="#6ee7b7">About me</text>
@@ -10,6 +10,6 @@
 <text x="34" y="152" fill="#e6edf3">Currently studying at <tspan fill="#e6c38b">42 and ASU</tspan>, my technical focus spans <tspan fill="#67d4e8">C/C++</tspan> systems programming,</text>
 <text x="34" y="178" fill="#e6edf3"><tspan fill="#67d4e8">UNIX</tspan> environments, <tspan fill="#67d4e8">digital forensics</tspan>, and secure infrastructure. I enjoy breaking down</text>
 <text x="34" y="204" fill="#e6edf3">complex problems, whether that means tackling <tspan fill="#67d4e8">CTF challenges</tspan> or analyzing data.</text>
-<text x="34" y="246" fill="#e6edf3">Outside the terminal, I stay creative by playing <tspan fill="#e6c38b">guitar</tspan>, designing <tspan fill="#e6c38b">pixel art</tspan>, and</text>
-<text x="34" y="272" fill="#e6edf3">helping lead the <tspan fill="#6ee7b7">GDGoC</tspan> tech community.</text>
+<text x="34" y="246" fill="#e6edf3">Outside the terminal, I enjoy playing <tspan fill="#e6c38b">guitar</tspan>, <tspan fill="#e6c38b">traveling</tspan>, and helping lead the <tspan fill="#6ee7b7">GDGoC</tspan> tech</text>
+<text x="34" y="272" fill="#e6edf3">community.</text>
 </svg>
