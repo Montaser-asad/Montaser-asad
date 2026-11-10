@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="174" viewBox="0 0 495 174" role="img" aria-labelledby="title">
+<title id="title">2D-game</title>
+<style>text{font-family:-apple-system,Segoe UI,Arial,sans-serif}</style>
+<rect x="1" y="1" width="493" height="172" rx="12" fill="#0b1220" stroke="#28476b" stroke-width="2"/>
+<text x="24" y="36" fill="#60a5fa" font-size="21">2D-game</text>
+<text x="24" y="66" fill="#dbeafe" font-size="16">♟️ chess2.0 — A chess-themed 2D tile puzzle game built</text>
+<text x="24" y="88" fill="#dbeafe" font-size="16">in pure C</text>
+<text x="24" y="151" fill="#93c5fd" font-size="14">C   ·   Stars: 0   ·   Forks: 0</text>
+</svg>

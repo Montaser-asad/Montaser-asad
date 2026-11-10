@@ -1,4 +1,4 @@
-name: Update terminal
+name: Update profile graphics
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/scripts/gen_terminal.py"]
+    paths: [".github/scripts/gen_terminal.py", ".github/scripts/gen_cards.py", ".github/workflows/update-terminal.yml"]
 
 permissions:
   contents: write
@@ -16,13 +16,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Generate terminal.svg
+      - name: Generate profile graphics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/gen_terminal.py assets/intro.svg
+        run: |
+          python3 .github/scripts/gen_terminal.py assets/intro.svg
+          python3 .github/scripts/gen_cards.py
       - name: Commit if changed
         run: |
           git config user.name "Montaser-asad"
           git config user.email "montserasad@gmail.com"
-          git add assets/intro.svg
-          git diff --cached --quiet || (git commit -m "Update terminal data" && git push)
+          git add assets/intro.svg assets/project-*.svg assets/github-stats.svg
+          git diff --cached --quiet || (git commit -m "Update profile graphics" && git push)

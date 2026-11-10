@@ -17,32 +17,32 @@ text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono',Menlo,Consolas,
 @keyframes pt3{0%,68.310%{clip-path:inset(-6px 100% -6px 0);animation-timing-function:steps(31,end)}83.155%{clip-path:inset(-6px 0 -6px 0)}83.255%{clip-path:inset(-6px -30px -6px 0)}91.042%{clip-path:inset(-6px -30px -6px 0)}91.142%{clip-path:inset(-6px 0 -6px 0);animation-timing-function:steps(31,end)}98.028%{clip-path:inset(-6px 100% -6px 0)}100%{clip-path:inset(-6px 100% -6px 0)}}
 @keyframes pc3{0%,68.210%{opacity:0}68.310%{opacity:1;transform:translateX(0);animation-timing-function:steps(31,end)}83.155%{transform:translateX(373.24px)}91.042%{transform:translateX(373.24px);animation-timing-function:steps(31,end)}98.028%{transform:translateX(0)}100%{opacity:1}}
 </style>
-<rect width="880" height="492" rx="12" fill="#0f111a" stroke="#2a2d3e" stroke-width="2"/>
+<rect width="880" height="492" rx="12" fill="#0b1220" stroke="#28476b" stroke-width="2"/>
 <circle cx="30" cy="28" r="9" fill="#ff5555"/>
 <circle cx="58" cy="28" r="9" fill="#ffb86c"/>
-<circle cx="86" cy="28" r="9" fill="#5af78e"/>
-<text x="30" y="84" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:0.40s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
-<text x="306.91999999999996" y="84" textLength="72.24" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:6;--d:0.48s;--t:0.65s">whoami</text>
-<rect x="306.92" y="65" width="12.04" height="24" fill="#ffffff" class="cm" style="--n:6;--d:0.48s;--t:0.65s;--w:72.24px"/>
-<text x="30" y="114" textLength="156.52" lengthAdjust="spacing" fill="#5af78e" class="ty" style="--n:13;--d:0.39s;--t:1.33s">MONTASER ASAD</text>
-<text x="30" y="162" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:1.91s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
-<text x="306.91999999999996" y="162" textLength="96.32" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:8;--d:0.64s;--t:2.16s">neofetch</text>
-<rect x="306.92" y="143" width="12.04" height="24" fill="#ffffff" class="cm" style="--n:8;--d:0.64s;--t:2.16s;--w:96.32px"/>
-<text x="30" y="198" textLength="228.76" lengthAdjust="spacing" fill="#fff06b" class="ty" style="--n:19;--d:0.28s;--t:3.00s">montaser@github.com</text>
-<text x="30" y="226" textLength="313.04" lengthAdjust="spacing" fill="#fff06b" class="ty" style="--n:26;--d:0.21s;--t:3.33s">--------------------------</text>
-<text x="30" y="258" textLength="216.72" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:18;--d:0.25s;--t:3.57s"><tspan fill="#fff06b">OS: </tspan><tspan fill="#ffffff">GitHub Profile</tspan></text>
-<text x="30" y="288" textLength="276.92" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:23;--d:0.32s;--t:3.87s"><tspan fill="#fff06b">Location: </tspan><tspan fill="#ffffff">Amman, Jordan</tspan></text>
-<text x="30" y="318" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:22;--d:0.31s;--t:4.23s"><tspan fill="#fff06b">Campus: </tspan><tspan fill="#ffffff">42 Amman | ASU</tspan></text>
-<text x="30" y="348" textLength="505.68" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:42;--d:0.59s;--t:4.58s"><tspan fill="#fff06b">Focus: </tspan><tspan fill="#ffffff">Systems, Networking, Cyber Security</tspan></text>
-<text x="30" y="378" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:31;--d:0.43s;--t:5.20s"><tspan fill="#fff06b">Languages: </tspan><tspan fill="#ffffff">C, C++, Java, Python</tspan></text>
-<text x="30" y="408" textLength="457.52" lengthAdjust="spacing" fill="#ffffff" class="ty" style="--n:38;--d:0.53s;--t:5.68s"><tspan fill="#fff06b">GitHub: </tspan><tspan fill="#ffffff">7 repos, 11 followers, 2 stars</tspan></text>
-<text x="30" y="462" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:6.50s"><tspan fill="#ff6ac1">montaser@github.com</tspan><tspan fill="#ffffff">:</tspan><tspan fill="#57d7ff">~</tspan><tspan fill="#5af78e">$ </tspan></text>
-<text x="306.92" y="462" textLength="264.88" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt0 17.75s linear 6.80s infinite">Cyber Security student</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc0 17.75s linear 6.80s infinite"/>
-<text x="306.92" y="462" textLength="192.64" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt1 17.75s linear 6.80s infinite">42 Amman student</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc1 17.75s linear 6.80s infinite"/>
-<text x="306.92" y="462" textLength="204.68" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt2 17.75s linear 6.80s infinite">Software Engineer</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc2 17.75s linear 6.80s infinite"/>
-<text x="306.92" y="462" textLength="373.24" lengthAdjust="spacing" fill="#ffffff" class="ph" style="animation:pt3 17.75s linear 6.80s infinite">Systems &amp; Networking enthusiast</text>
-<rect x="306.92" y="443" width="12.04" height="24" fill="#ffffff" class="pc" style="animation:pc3 17.75s linear 6.80s infinite"/>
+<circle cx="86" cy="28" r="9" fill="#38bdf8"/>
+<text x="30" y="84" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:0.40s"><tspan fill="#60a5fa">montaser@github.com</tspan><tspan fill="#dbeafe">:</tspan><tspan fill="#7dd3fc">~</tspan><tspan fill="#38bdf8">$ </tspan></text>
+<text x="306.91999999999996" y="84" textLength="72.24" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:6;--d:0.48s;--t:0.65s">whoami</text>
+<rect x="306.92" y="65" width="12.04" height="24" fill="#dbeafe" class="cm" style="--n:6;--d:0.48s;--t:0.65s;--w:72.24px"/>
+<text x="30" y="114" textLength="156.52" lengthAdjust="spacing" fill="#38bdf8" class="ty" style="--n:13;--d:0.39s;--t:1.33s">MONTASER ASAD</text>
+<text x="30" y="162" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:1.91s"><tspan fill="#60a5fa">montaser@github.com</tspan><tspan fill="#dbeafe">:</tspan><tspan fill="#7dd3fc">~</tspan><tspan fill="#38bdf8">$ </tspan></text>
+<text x="306.91999999999996" y="162" textLength="96.32" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:8;--d:0.64s;--t:2.16s">neofetch</text>
+<rect x="306.92" y="143" width="12.04" height="24" fill="#dbeafe" class="cm" style="--n:8;--d:0.64s;--t:2.16s;--w:96.32px"/>
+<text x="30" y="198" textLength="228.76" lengthAdjust="spacing" fill="#93c5fd" class="ty" style="--n:19;--d:0.28s;--t:3.00s">montaser@github.com</text>
+<text x="30" y="226" textLength="313.04" lengthAdjust="spacing" fill="#93c5fd" class="ty" style="--n:26;--d:0.21s;--t:3.33s">--------------------------</text>
+<text x="30" y="258" textLength="216.72" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:18;--d:0.25s;--t:3.57s"><tspan fill="#93c5fd">OS: </tspan><tspan fill="#dbeafe">GitHub Profile</tspan></text>
+<text x="30" y="288" textLength="276.92" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:23;--d:0.32s;--t:3.87s"><tspan fill="#93c5fd">Location: </tspan><tspan fill="#dbeafe">Amman, Jordan</tspan></text>
+<text x="30" y="318" textLength="264.88" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:22;--d:0.31s;--t:4.23s"><tspan fill="#93c5fd">Campus: </tspan><tspan fill="#dbeafe">42 Amman | ASU</tspan></text>
+<text x="30" y="348" textLength="505.68" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:42;--d:0.59s;--t:4.58s"><tspan fill="#93c5fd">Focus: </tspan><tspan fill="#dbeafe">Systems, Networking, Cyber Security</tspan></text>
+<text x="30" y="378" textLength="373.24" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:31;--d:0.43s;--t:5.20s"><tspan fill="#93c5fd">Languages: </tspan><tspan fill="#dbeafe">C, C++, Java, Python</tspan></text>
+<text x="30" y="408" textLength="457.52" lengthAdjust="spacing" fill="#dbeafe" class="ty" style="--n:38;--d:0.53s;--t:5.68s"><tspan fill="#93c5fd">GitHub: </tspan><tspan fill="#dbeafe">7 repos, 11 followers, 2 stars</tspan></text>
+<text x="30" y="462" textLength="276.92" lengthAdjust="spacing" class="l" style="--t:6.50s"><tspan fill="#60a5fa">montaser@github.com</tspan><tspan fill="#dbeafe">:</tspan><tspan fill="#7dd3fc">~</tspan><tspan fill="#38bdf8">$ </tspan></text>
+<text x="306.92" y="462" textLength="264.88" lengthAdjust="spacing" fill="#dbeafe" class="ph" style="animation:pt0 17.75s linear 6.80s infinite">Cyber Security student</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#dbeafe" class="pc" style="animation:pc0 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="192.64" lengthAdjust="spacing" fill="#dbeafe" class="ph" style="animation:pt1 17.75s linear 6.80s infinite">42 Amman student</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#dbeafe" class="pc" style="animation:pc1 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="204.68" lengthAdjust="spacing" fill="#dbeafe" class="ph" style="animation:pt2 17.75s linear 6.80s infinite">Software Engineer</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#dbeafe" class="pc" style="animation:pc2 17.75s linear 6.80s infinite"/>
+<text x="306.92" y="462" textLength="373.24" lengthAdjust="spacing" fill="#dbeafe" class="ph" style="animation:pt3 17.75s linear 6.80s infinite">Systems &amp; Networking enthusiast</text>
+<rect x="306.92" y="443" width="12.04" height="24" fill="#dbeafe" class="pc" style="animation:pc3 17.75s linear 6.80s infinite"/>
 </svg>
