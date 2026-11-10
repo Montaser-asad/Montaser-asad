@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="248" viewBox="0 0 880 248" role="img" aria-labelledby="beyond-title beyond-description">
+<title id="beyond-title">Beyond the terminal</title>
+<desc id="beyond-description">Playing guitar, designing pixel art, and helping lead the GDGoC tech community.</desc>
+<style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}.heading{font-size:21px;font-weight:700}.label{font-size:20px;font-weight:600}.detail{font-size:16px;fill:#a6b8b5}</style>
+<rect x="1" y="1" width="878" height="246" rx="12" fill="#101619" stroke="#2b3b40" stroke-width="2"/>
+<text x="34" y="38" class="heading" fill="#6ee7b7">Beyond the terminal</text>
+<path d="M34 54H846" stroke="#2b3b40"/>
+<rect x="24" y="74" width="264" height="150" rx="10" fill="#151f23"/>
+<rect x="308" y="74" width="264" height="150" rx="10" fill="#151f23"/>
+<rect x="592" y="74" width="264" height="150" rx="10" fill="#151f23"/>
+<g transform="translate(46 94)" fill="none" stroke="#e6c38b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 21V4l17-4v17M12 8l17-4"/>
+  <ellipse cx="7" cy="23" rx="5" ry="4"/>
+  <ellipse cx="24" cy="19" rx="5" ry="4"/>
+</g>
+<g transform="translate(330 94)" fill="#67d4e8" shape-rendering="crispEdges">
+  <path d="M4 0h8v4h8V0h8v4h4v12h-4v4h-4v4h-4v4h-8v-4H8v-4H4v-4H0V4h4Z"/>
+  <path d="M4 4h4v4H4Z" fill="#e6edf3"/>
+</g>
+<g transform="translate(614 94)" fill="none" stroke="#6ee7b7" stroke-width="2" stroke-linecap="round">
+  <circle cx="16" cy="7" r="5"/>
+  <circle cx="3" cy="12" r="3"/>
+  <circle cx="29" cy="12" r="3"/>
+  <path d="M7 28v-2a9 9 0 0 1 18 0v2M0 26v-3a6 6 0 0 1 5-6m27 9v-3a6 6 0 0 0-5-6"/>
+</g>
+<text x="46" y="156" class="label" fill="#e6c38b">Guitar</text>
+<text x="46" y="183" class="detail">A creative outlet</text>
+<text x="46" y="205" class="detail">away from the keyboard.</text>
+<text x="330" y="156" class="label" fill="#67d4e8">Pixel art</text>
+<text x="330" y="183" class="detail">Designing and creating</text>
+<text x="330" y="205" class="detail">with pixels.</text>
+<text x="614" y="156" class="label" fill="#6ee7b7">GDGoC</text>
+<text x="614" y="183" class="detail">Helping lead the</text>
+<text x="614" y="205" class="detail">tech community.</text>
+</svg>

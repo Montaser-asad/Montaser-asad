@@ -26,5 +26,5 @@ jobs:
         run: |
           git config user.name "Montaser-asad"
           git config user.email "montserasad@gmail.com"
-          git add assets/intro.svg assets/project-*.svg assets/github-stats.svg
+          git add assets/intro.svg assets/project-*.svg
           git diff --cached --quiet || (git commit -m "Update profile graphics" && git push)

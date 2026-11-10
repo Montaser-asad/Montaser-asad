@@ -12,7 +12,7 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-v4.svg?v=about-card-3" alt="Montaser is a cybersecurity student interested in what happens beneath the surface of software: how processes run, how threads share resources, and how machines communicate. He explores those ideas through C projects, from building a Unix shell to working with concurrency and network configurations. He also runs a self-built Debian home server, where he experiments with services, infrastructure, and system security. He wants to understand both how software is built and how it can fail, bringing that perspective to his cybersecurity studies. Outside of computing, he plays chess and guitar and holds a diploma in Fine Arts (guitar)." width="880" />
+<img src="assets/about-v4.svg?v=about-card-4" alt="Hi, I'm Montaser. I'm a Cybersecurity and Software Engineering student with a strong passion for building and understanding low level systems. Currently studying at 42 and ASU, my technical focus spans C/C++ systems programming, UNIX environments, digital forensics, and secure infrastructure. I enjoy breaking down complex problems, whether that means tackling CTF challenges or analyzing data. Outside the terminal, I stay creative by playing guitar, designing pixel art, and helping lead the GDGoC tech community." width="880" />
 
 &nbsp;
 
@@ -29,14 +29,9 @@
 
 &nbsp;
 
-### `montaser@github.com:~$ ./stats --github`
+### `montaser@github.com:~$ cat beyond-the-terminal.txt`
 
-<div align="center">
-
-<img width="49%" src="assets/github-stats.svg?v=charcoal-mint-1" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=101619&border=2b3b40&ring=6ee7b7&fire=e6c38b&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a6b8b5&sideLabels=e6edf3&dates=a6b8b5" alt="GitHub streak stats" />
-
-</div>
+<img src="assets/beyond-the-terminal.svg?v=1" alt="Beyond the terminal: playing guitar, designing pixel art, and helping lead the GDGoC tech community." width="880" />
 
 &nbsp;
 

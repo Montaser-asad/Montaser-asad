@@ -42,7 +42,6 @@ def card(title, lines, height):
 
 
 def generate():
-    user = get(f"users/{USER}")
     repos = []
     page = 1
     while True:
@@ -67,17 +66,6 @@ def generate():
         details.extend([f'Stars: {repo["stargazers_count"]}', f'Forks: {repo["forks_count"]}'])
         lines.append(text(24, 151, "   ·   ".join(details), "#a6b8b5", 14))
         output[f"project-{name}.svg"] = card(name, lines, 174)
-    stats = [
-        ("Public repositories", user["public_repos"]),
-        ("Followers", user["followers"]),
-        ("Stars earned", sum(repo["stargazers_count"] for repo in repos)),
-        ("Repository forks", sum(repo["forks_count"] for repo in repos)),
-    ]
-    lines = []
-    for i, (label, value) in enumerate(stats):
-        y = 69 + i * 32
-        lines.extend([text(24, y, label), text(420, y, value, "#67d4e8")])
-    output["github-stats.svg"] = card("GitHub stats", lines, 195)
     # Fetch and build every card before replacing any existing images.
     for name, svg in output.items():
         (ROOT / "assets" / name).write_text(svg, encoding="utf-8")
