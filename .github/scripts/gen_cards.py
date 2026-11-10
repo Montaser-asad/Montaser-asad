@@ -22,7 +22,7 @@ def get(path):
         return json.load(response)
 
 
-def text(x, y, value, color="#dbeafe", size=16):
+def text(x, y, value, color="#e6edf3", size=16):
     return (f'<text x="{x}" y="{y}" fill="{color}" font-size="{size}">'
             f'{escape(str(value))}</text>')
 
@@ -34,8 +34,8 @@ def card(title, lines, height):
         f'<title id="title">{escape(title)}</title>',
         '<style>text{font-family:-apple-system,Segoe UI,Arial,sans-serif}</style>',
         f'<rect x="1" y="1" width="493" height="{height - 2}" rx="12" '
-        'fill="#0b1220" stroke="#28476b" stroke-width="2"/>',
-        text(24, 36, title, "#60a5fa", 21),
+        'fill="#101619" stroke="#2b3b40" stroke-width="2"/>',
+        text(24, 36, title, "#6ee7b7", 21),
         *lines,
         '</svg>',
     ]) + '\n'
@@ -65,7 +65,7 @@ def generate():
         if repo["language"]:
             details.append(repo["language"])
         details.extend([f'Stars: {repo["stargazers_count"]}', f'Forks: {repo["forks_count"]}'])
-        lines.append(text(24, 151, "   ·   ".join(details), "#93c5fd", 14))
+        lines.append(text(24, 151, "   ·   ".join(details), "#a6b8b5", 14))
         output[f"project-{name}.svg"] = card(name, lines, 174)
     stats = [
         ("Public repositories", user["public_repos"]),
@@ -76,7 +76,7 @@ def generate():
     lines = []
     for i, (label, value) in enumerate(stats):
         y = 69 + i * 32
-        lines.extend([text(24, y, label), text(420, y, value, "#7dd3fc")])
+        lines.extend([text(24, y, label), text(420, y, value, "#67d4e8")])
     output["github-stats.svg"] = card("GitHub stats", lines, 195)
     # Fetch and build every card before replacing any existing images.
     for name, svg in output.items():

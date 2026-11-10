@@ -14,7 +14,7 @@ def live():
         print("live data unavailable:",e,file=sys.stderr); return None
 LIVE=live()
 OUT=sys.argv[1] if len(sys.argv)>1 else "assets/intro.svg"
-BG,PINK,GRN,CYN,YEL,TXT="#0b1220","#60a5fa","#38bdf8","#7dd3fc","#93c5fd","#dbeafe"
+BG,PINK,GRN,CYN,YEL,TXT="#101619","#6ee7b7","#6ee7b7","#67d4e8","#e6c38b","#e6edf3"
 FS=20; CW=12.04; W=880
 PFX="montaser@github.com:~$ "
 HID="inset(-6px 100% -6px 0)"; FULL="inset(-6px 0 -6px 0)"; FX="inset(-6px -30px -6px 0)"
@@ -35,8 +35,10 @@ def out(x,y,inner,n,speed=0.02,fill=TXT):
     typed(x,y,inner,n,speed,fill); T[0]+=0.04
 o.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="@@H@@" viewBox="0 0 {W} @@H@@" role="img" aria-label="Terminal session: whoami Montaser Asad; neofetch with location Amman Jordan, campus 42 Amman ASU, focus systems networking and cyber security, languages C, C++, Java, Python; a prompt that keeps typing: Cyber Security student, 42 Amman student, Software Engineer, Systems and Networking enthusiast">')
 o.append('@@STYLE@@')
-o.append(f'<rect width="{W}" height="@@H@@" rx="12" fill="{BG}" stroke="#28476b" stroke-width="2"/>')
-for i,c in enumerate(["#ff5555","#ffb86c","#38bdf8"]): o.append(f'<circle cx="{30+i*28}" cy="28" r="9" fill="{c}"/>')
+o.append(f'<rect width="{W}" height="@@H@@" rx="12" fill="{BG}" stroke="#2b3b40" stroke-width="2"/>')
+for i,c in enumerate(["#e78284","#e6c38b","#6ee7b7"]): o.append(f'<circle cx="{30+i*28}" cy="28" r="9" fill="{c}"/>')
+o.append('<path d="M18 52H862" stroke="#2b3b40"/>')
+o.append('<text x="850" y="33" text-anchor="end" fill="#a6b8b5" style="font-size:13px;font-weight:500">montaser / terminal</text>')
 prompt(84,"whoami"); out(30,114,"MONTASER ASAD",13,0.03,GRN)
 T[0]+=0.15
 prompt(162,"neofetch")

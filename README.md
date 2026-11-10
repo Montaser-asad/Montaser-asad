@@ -34,7 +34,7 @@
 <div align="center">
 
 <img width="49%" src="assets/github-stats.svg" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=0b1220&border=28476b&ring=60a5fa&fire=38bdf8&currStreakNum=dbeafe&sideNums=dbeafe&currStreakLabel=93c5fd&sideLabels=dbeafe&dates=7dd3fc" alt="GitHub streak stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=101619&border=2b3b40&ring=6ee7b7&fire=e6c38b&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a6b8b5&sideLabels=e6edf3&dates=a6b8b5" alt="GitHub streak stats" />
 
 </div>
 

@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="328" viewBox="0 0 880 328" role="img" aria-label="About: a cybersecurity student based in Amman, Jordan, working on a Bachelor's in Cybersecurity at Applied Science University, drawn to security by how much they like finding out how things break. Doing 42 Amman with C and systems projects, running a self-built Debian home server and working on its security and infrastructure. Next goal: go deeper into where systems and security meet. Outside of code: a diploma in Fine Arts (guitar) and chess.">
 <style>text{font-family:-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:17px;font-weight:500;white-space:pre}.t{font-size:21px;font-weight:700}</style>
-<rect x="1" y="1" width="878" height="326" rx="12" fill="#0b1220" stroke="#28476b" stroke-width="2"/>
-<rect x="1" y="1" width="6" height="326" rx="3" fill="#60a5fa"/>
-<text x="34" y="46" class="t" fill="#60a5fa">About me</text>
-<rect x="34" y="56" width="48" height="3" rx="1.5" fill="#60a5fa"/>
-<text x="34" y="84"><tspan fill="#dbeafe">I'm a </tspan><tspan fill="#7dd3fc">cybersecurity</tspan><tspan fill="#dbeafe"> student based in Amman, Jordan, working on a Bachelor's in</tspan></text>
-<text x="34" y="110"><tspan fill="#7dd3fc">Cybersecurity</tspan><tspan fill="#dbeafe"> at Applied Science University. What pulled me into security is how</tspan></text>
-<text x="34" y="136"><tspan fill="#dbeafe">much I like finding out </tspan><tspan fill="#7dd3fc">how things break</tspan><tspan fill="#dbeafe">.</tspan></text>
-<text x="34" y="176"><tspan fill="#dbeafe">Alongside that I'm doing </tspan><tspan fill="#93c5fd">42 Amman</tspan><tspan fill="#dbeafe">, where I write </tspan><tspan fill="#38bdf8">C</tspan><tspan fill="#dbeafe"> and systems projects. I also</tspan></text>
-<text x="34" y="202"><tspan fill="#dbeafe">run a self-built </tspan><tspan fill="#93c5fd">Debian</tspan><tspan fill="#dbeafe"> home server and work on its security and infrastructure.</tspan></text>
-<text x="34" y="242"><tspan fill="#dbeafe">Next, I want to go deeper into where </tspan><tspan fill="#7dd3fc">systems</tspan><tspan fill="#dbeafe"> and </tspan><tspan fill="#7dd3fc">security</tspan><tspan fill="#dbeafe"> meet.</tspan></text>
-<text x="34" y="282"><tspan fill="#dbeafe">Outside of code: I have a diploma in </tspan><tspan fill="#93c5fd">Fine Arts</tspan><tspan fill="#dbeafe"> (guitar) and I play chess.</tspan></text>
+<rect x="1" y="1" width="878" height="326" rx="12" fill="#101619" stroke="#2b3b40" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="326" rx="3" fill="#6ee7b7"/>
+<text x="34" y="46" class="t" fill="#6ee7b7">About me</text>
+<rect x="34" y="56" width="48" height="3" rx="1.5" fill="#6ee7b7"/>
+<text x="34" y="84"><tspan fill="#e6edf3">I'm a </tspan><tspan fill="#67d4e8">cybersecurity</tspan><tspan fill="#e6edf3"> student based in Amman, Jordan, working on a Bachelor's in</tspan></text>
+<text x="34" y="110"><tspan fill="#67d4e8">Cybersecurity</tspan><tspan fill="#e6edf3"> at Applied Science University. What pulled me into security is how</tspan></text>
+<text x="34" y="136"><tspan fill="#e6edf3">much I like finding out </tspan><tspan fill="#67d4e8">how things break</tspan><tspan fill="#e6edf3">.</tspan></text>
+<text x="34" y="176"><tspan fill="#e6edf3">Alongside that I'm doing </tspan><tspan fill="#e6c38b">42 Amman</tspan><tspan fill="#e6edf3">, where I write </tspan><tspan fill="#6ee7b7">C</tspan><tspan fill="#e6edf3"> and systems projects. I also</tspan></text>
+<text x="34" y="202"><tspan fill="#e6edf3">run a self-built </tspan><tspan fill="#e6c38b">Debian</tspan><tspan fill="#e6edf3"> home server and work on its security and infrastructure.</tspan></text>
+<text x="34" y="242"><tspan fill="#e6edf3">Next, I want to go deeper into where </tspan><tspan fill="#67d4e8">systems</tspan><tspan fill="#e6edf3"> and </tspan><tspan fill="#67d4e8">security</tspan><tspan fill="#e6edf3"> meet.</tspan></text>
+<text x="34" y="282"><tspan fill="#e6edf3">Outside of code: I have a diploma in </tspan><tspan fill="#e6c38b">Fine Arts</tspan><tspan fill="#e6edf3"> (guitar) and I play chess.</tspan></text>
 </svg>
