@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/intro.svg" alt="Terminal session: whoami, neofetch" width="880" />
+<img src="assets/intro.svg?v=charcoal-mint-1" alt="Terminal session: whoami, neofetch" width="880" />
 
 <br><br>
 
@@ -12,7 +12,11 @@
 
 ### `montaser@github.com:~$ cat about.txt`
 
-<img src="assets/about-v4.svg" alt="About: a cybersecurity student based in Amman, Jordan, working on a Bachelor's in Cybersecurity at Applied Science University, drawn to security by how much they like finding out how things break. Doing 42 Amman with C and systems projects, running a self-built Debian home server and working on its security and infrastructure. Next goal: go deeper into where systems and security meet. Outside of code: a diploma in Fine Arts (guitar) and chess." width="880" />
+I'm Montaser, a cybersecurity student at Applied Science University in Amman and a student at 42 Amman. I like understanding how systems work, tracing what happens when they fail, and using that knowledge to make them more reliable and secure.
+
+At 42, I build projects in C that take me closer to the operating system: shell behavior, processes, threads, and networking. I also run a self-built Debian home server, where I work on the security and infrastructure behind the services I use.
+
+I'm focused on the intersection of systems programming and cybersecurity. Outside the terminal, I play chess and guitar, and hold a diploma in Fine Arts (guitar).
 
 &nbsp;
 
@@ -20,10 +24,10 @@
 
 <div align="center">
 
-<a href="https://github.com/Montaser-asad/minishell"><img align="top" width="49%" src="assets/project-minishell.svg" alt="minishell" /></a>
-<a href="https://github.com/Montaser-asad/Philosophers"><img align="top" width="49%" src="assets/project-Philosophers.svg" alt="Philosophers" /></a>
-<a href="https://github.com/Montaser-asad/NetPractice"><img align="top" width="49%" src="assets/project-NetPractice.svg" alt="NetPractice" /></a>
-<a href="https://github.com/Montaser-asad/2D-game"><img align="top" width="49%" src="assets/project-2D-game.svg" alt="2D-game" /></a>
+<a href="https://github.com/Montaser-asad/minishell"><img align="top" width="49%" src="assets/project-minishell.svg?v=charcoal-mint-1" alt="minishell" /></a>
+<a href="https://github.com/Montaser-asad/Philosophers"><img align="top" width="49%" src="assets/project-Philosophers.svg?v=charcoal-mint-1" alt="Philosophers" /></a>
+<a href="https://github.com/Montaser-asad/NetPractice"><img align="top" width="49%" src="assets/project-NetPractice.svg?v=charcoal-mint-1" alt="NetPractice" /></a>
+<a href="https://github.com/Montaser-asad/2D-game"><img align="top" width="49%" src="assets/project-2D-game.svg?v=charcoal-mint-1" alt="2D-game" /></a>
 
 </div>
 
@@ -33,7 +37,7 @@
 
 <div align="center">
 
-<img width="49%" src="assets/github-stats.svg" alt="GitHub stats" />
+<img width="49%" src="assets/github-stats.svg?v=charcoal-mint-1" alt="GitHub stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Montaser-asad&hide_border=false&background=101619&border=2b3b40&ring=6ee7b7&fire=e6c38b&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a6b8b5&sideLabels=e6edf3&dates=a6b8b5" alt="GitHub streak stats" />
 
 </div>
@@ -55,8 +59,8 @@
 
 ### `montaser@github.com:~$ ./contact`
 
-[<img src="assets/email.svg" alt="Email: montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
-[<img src="assets/linkedin.svg" alt="LinkedIn" height="60" />](https://www.linkedin.com/in/montaser-asad)
+[<img src="assets/email.svg?v=charcoal-mint-1" alt="Email: montserasad@gmail.com" height="60" />](mailto:montserasad@gmail.com)
+[<img src="assets/linkedin.svg?v=charcoal-mint-1" alt="LinkedIn" height="60" />](https://www.linkedin.com/in/montaser-asad)
 
 &nbsp;
 
